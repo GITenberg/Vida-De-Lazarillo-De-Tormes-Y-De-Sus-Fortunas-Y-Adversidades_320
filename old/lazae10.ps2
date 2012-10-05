@@ -1,0 +1,3849 @@
+%!PS-Adobe-3.0
+%%Title: (lazarillo/950915/A4)
+%%Creator: (Microsoft Word: LaserWriter 8 E1-8.1.1)
+%%CreationDate: (11:36 viernes, 15 septiembre 1995)
+%%For: (Usuario de Performa)
+%%Pages: 49
+%%DocumentFonts: Times-Roman Times-Bold Times-Italic
+%%DocumentNeededFonts: Times-Roman Times-Bold Times-Italic
+%%DocumentSuppliedFonts:
+%%DocumentData: Clean7Bit
+%%PageOrder: Ascend
+%%Orientation: Portrait
+%ADO_PaperArea: -31 -28 811 567
+%ADO_ImageableArea: 0 0 781 538
+%%EndComments
+/md 138 dict def md begin
+/currentpacking where {pop /sc_oldpacking currentpacking def true setpacking}if
+%%BeginFile: adobe_psp_basic
+%%Copyright: Copyright 1990-1993 Adobe Systems Incorporated. All Rights Reserved.
+/bd{bind def}bind def
+/xdf{exch def}bd
+/xs{exch store}bd
+/ld{load def}bd
+/Z{0 def}bd
+/T/true
+/F/false
+/:L/lineto
+/lw/setlinewidth
+/:M/moveto
+/rl/rlineto
+/rm/rmoveto
+/:C/curveto
+/:T/translate
+/:K/closepath
+/:mf/makefont
+/gS/gsave
+/gR/grestore
+/np/newpath
+14{ld}repeat
+/$m matrix def
+/av 81 def
+/por true def
+/normland false def
+/psb-nosave{}bd
+/pse-nosave{}bd
+/us Z
+/psb{/us save store}bd
+/pse{us restore}bd
+/level2
+/languagelevel where
+{
+pop languagelevel 2 ge
+}{
+false
+}ifelse
+def
+/featurecleanup
+{
+stopped
+cleartomark
+countdictstack exch sub dup 0 gt
+{
+{end}repeat
+}{
+pop
+}ifelse
+}bd
+/noload Z
+/startnoload
+{
+{/noload save store}if
+}bd
+/endnoload
+{
+{noload restore}if
+}bd
+level2 startnoload
+/setjob
+{
+statusdict/jobname 3 -1 roll put
+}bd
+/setcopies
+{
+userdict/#copies 3 -1 roll put
+}bd
+level2 endnoload level2 not startnoload
+/setjob
+{
+1 dict begin/JobName xdf currentdict end setuserparams
+}bd
+/setcopies
+{
+1 dict begin/NumCopies xdf currentdict end setpagedevice
+}bd
+level2 not endnoload
+/pm Z
+/mT Z
+/sD Z
+/realshowpage Z
+/initializepage
+{
+/pm save store mT concat
+}bd
+/endp
+{
+pm restore showpage
+}def
+/$c/DeviceRGB def
+/rectclip where
+{
+pop/rC/rectclip ld
+}{
+/rC
+{
+np 4 2 roll
+:M
+1 index 0 rl
+0 exch rl
+neg 0 rl
+:K
+clip np
+}bd
+}ifelse
+/rectfill where
+{
+pop/rF/rectfill ld
+}{
+/rF
+{
+gS
+np
+4 2 roll
+:M
+1 index 0 rl
+0 exch rl
+neg 0 rl
+fill
+gR
+}bd
+}ifelse
+/rectstroke where
+{
+pop/rS/rectstroke ld
+}{
+/rS
+{
+gS
+np
+4 2 roll
+:M
+1 index 0 rl
+0 exch rl
+neg 0 rl
+:K
+stroke
+gR
+}bd
+}ifelse
+%%EndFile
+%%BeginFile: adobe_psp_colorspace_level1
+%%Copyright: Copyright 1991-1993 Adobe Systems Incorporated. All Rights Reserved.
+/G/setgray ld
+/:F/setrgbcolor ld
+%%EndFile
+%%BeginFile: adobe_psp_uniform_graphics
+%%Copyright: Copyright 1990-1993 Adobe Systems Incorporated. All Rights Reserved.
+/@a
+{
+np :M 0 rl :L 0 exch rl 0 rl :L fill
+}bd
+/@b
+{
+np :M 0 rl 0 exch rl :L 0 rl 0 exch rl fill
+}bd
+/arct where
+{
+pop
+}{
+/arct
+{
+arcto pop pop pop pop
+}bd
+}ifelse
+/x1 Z
+/x2 Z
+/y1 Z
+/y2 Z
+/rad Z
+/@q
+{
+/rad xs
+/y2 xs
+/x2 xs
+/y1 xs
+/x1 xs
+np
+x2 x1 add 2 div y1 :M
+x2 y1 x2 y2 rad arct
+x2 y2 x1 y2 rad arct
+x1 y2 x1 y1 rad arct
+x1 y1 x2 y1 rad arct
+fill
+}bd
+/@s
+{
+/rad xs
+/y2 xs
+/x2 xs
+/y1 xs
+/x1 xs
+np
+x2 x1 add 2 div y1 :M
+x2 y1 x2 y2 rad arct
+x2 y2 x1 y2 rad arct
+x1 y2 x1 y1 rad arct
+x1 y1 x2 y1 rad arct
+:K
+stroke
+}bd
+/@i
+{
+np 0 360 arc fill
+}bd
+/@j
+{
+gS
+np
+:T
+scale
+0 0 .5 0 360 arc
+fill
+gR
+}bd
+/@e
+{
+np
+0 360 arc
+:K
+stroke
+}bd
+/@f
+{
+np
+$m currentmatrix
+pop
+:T
+scale
+0 0 .5 0 360 arc
+:K
+$m setmatrix
+stroke
+}bd
+/@k
+{
+gS
+np
+:T
+0 0 :M
+0 0 5 2 roll
+arc fill
+gR
+}bd
+/@l
+{
+gS
+np
+:T
+0 0 :M
+scale
+0 0 .5 5 -2 roll arc
+fill
+gR
+}bd
+/@m
+{
+np
+arc
+stroke
+}bd
+/@n
+{
+np
+$m currentmatrix
+pop
+:T
+scale
+0 0 .5 5 -2 roll arc
+$m setmatrix
+stroke
+}bd
+%%EndFile
+%%BeginFile: adobe_psp_basic_text
+%%Copyright: Copyright 1990-1993 Adobe Systems Incorporated. All Rights Reserved.
+/S/show ld
+/A{
+0.0 exch ashow
+}bd
+/R{
+0.0 exch 32 exch widthshow
+}bd
+/W{
+0.0 3 1 roll widthshow
+}bd
+/J{
+0.0 32 4 2 roll 0.0 exch awidthshow
+}bd
+/V{
+0.0 4 1 roll 0.0 exch awidthshow
+}bd
+/fcflg true def
+/fc{
+fcflg{
+vmstatus exch sub 50000 lt{
+(%%[ Warning: Running out of memory ]%%\r)print flush/fcflg false store
+}if pop
+}if
+}bd
+/$f[1 0 0 -1 0 0]def
+/:ff{$f :mf}bd
+/MacEncoding StandardEncoding 256 array copy def
+MacEncoding 39/quotesingle put
+MacEncoding 96/grave put
+/Adieresis/Aring/Ccedilla/Eacute/Ntilde/Odieresis/Udieresis/aacute
+/agrave/acircumflex/adieresis/atilde/aring/ccedilla/eacute/egrave
+/ecircumflex/edieresis/iacute/igrave/icircumflex/idieresis/ntilde/oacute
+/ograve/ocircumflex/odieresis/otilde/uacute/ugrave/ucircumflex/udieresis
+/dagger/degree/cent/sterling/section/bullet/paragraph/germandbls
+/registered/copyright/trademark/acute/dieresis/notequal/AE/Oslash
+/infinity/plusminus/lessequal/greaterequal/yen/mu/partialdiff/summation
+/product/pi/integral/ordfeminine/ordmasculine/Omega/ae/oslash
+/questiondown/exclamdown/logicalnot/radical/florin/approxequal/Delta/guillemotleft
+/guillemotright/ellipsis/space/Agrave/Atilde/Otilde/OE/oe
+/endash/emdash/quotedblleft/quotedblright/quoteleft/quoteright/divide/lozenge
+/ydieresis/Ydieresis/fraction/currency/guilsinglleft/guilsinglright/fi/fl
+/daggerdbl/periodcentered/quotesinglbase/quotedblbase/perthousand
+/Acircumflex/Ecircumflex/Aacute/Edieresis/Egrave/Iacute/Icircumflex/Idieresis/Igrave
+/Oacute/Ocircumflex/apple/Ograve/Uacute/Ucircumflex/Ugrave/dotlessi/circumflex/tilde
+/macron/breve/dotaccent/ring/cedilla/hungarumlaut/ogonek/caron
+MacEncoding 128 128 getinterval astore pop
+level2 startnoload
+/copyfontdict
+{
+findfont dup length dict
+begin
+{
+1 index/FID ne{def}{pop pop}ifelse
+}forall
+}bd
+level2 endnoload level2 not startnoload
+/copyfontdict
+{
+findfont dup length dict
+copy
+begin
+}bd
+level2 not endnoload
+md/fontname known not{
+/fontname/customfont def
+}if
+/Encoding Z
+/:mre
+{
+copyfontdict
+/Encoding MacEncoding def
+fontname currentdict
+end
+definefont :ff def
+}bd
+/:bsr
+{
+copyfontdict
+/Encoding Encoding 256 array copy def
+Encoding dup
+}bd
+/pd{put dup}bd
+/:esr
+{
+pop pop
+fontname currentdict
+end
+definefont :ff def
+}bd
+/scf
+{
+scalefont def
+}bd
+/scf-non
+{
+$m scale :mf setfont
+}bd
+/ps Z
+/fz{/ps xs}bd
+/sf/setfont ld
+/cF/currentfont ld
+/mbf
+{
+/makeblendedfont where
+{
+pop
+makeblendedfont
+/ABlend exch definefont
+}{
+pop
+}ifelse
+def
+}def
+%%EndFile
+/currentpacking where {pop sc_oldpacking setpacking}if
+end		% md
+%%EndProlog
+%%BeginSetup
+md begin
+countdictstack
+[
+{%stopped
+%%BeginFeature: *ManualFeed False
+level2 {1 dict dup /ManualFeed false put setpagedevice}{statusdict begin /manualfeed false store end} ifelse
+%%EndFeature
+}featurecleanup
+countdictstack
+[
+{%stopped
+%%BeginFeature: *InputSlot Upper
+
+%%EndFeature
+}featurecleanup
+countdictstack
+[
+{%stopped
+%%BeginFeature: *PageRegion A4Small
+level2 { 
+		2 dict dup /PageSize [595 842] put dup /ImagingBBox [17 22 577 819] put setpagedevice
+	}{
+		a4small
+	} ifelse
+%%EndFeature
+}featurecleanup
+(Usuario de Performa)setjob
+/pT[1 0 0 -1 28 811]def/mT[1 0 0 -1 28 811]def
+/sD 16 dict def
+300 level2{1 dict dup/WaitTimeout 4 -1 roll put setuserparams}{statusdict/waittimeout 3 -1 roll put}ifelse
+%%IncludeFont: Times-Roman
+%%IncludeFont: Times-Bold
+%%IncludeFont: Times-Italic
+/f0_1/Times-Roman :mre
+/f0_12 f0_1 12 scf
+/f1_1/Times-Bold :mre
+/f1_12 f1_1 12 scf
+/f2_1/Times-Italic :mre
+/f2_12 f2_1 12 scf
+/Courier findfont[10 0 0 -10 0 0]:mf setfont
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 1 of 49)setjob
+%%EndPageSetup
+gS 0 0 538 781 rC
+42 772 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+505 772 :M
+(i)S
+-4124 -4126 -1 1 -4122 -4126 1 -4124 -4127 @a
+40 761.24 -.24 .24 512.24 761 .24 40 761 @a
+42 144 :M
+-.003(**The Project Gutenberg Etext of Vida de Lazarillo [unknown] **)A
+42 192 :M
+-.043(This Etext is in Spanish)A
+42 252 :M
+-.006(Digitalizado por \(digitized by\): Jes\234s Joglar)A
+42 270 :M
+-.015(email: JJTQOB@CID.CSIC.ES)A
+42 318 :M
+-.014(**The Project Gutenberg Etext of Vida de Lazarillo [Unknown] **)A
+42 342 :M
+-.016(***********This file should be named lazae10.ps*************)A
+42 390 :M
+-.003(Corrected EDITIONS of our etexts get a new NUMBER, lazae11.ps.)A
+42 414 :M
+-.003(VERSIONS based on separate sources get new LETTER, lazae10a.ps.)A
+endp
+%%Page: 2 2
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 2 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(1)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+f1_12 sf
+-.005(LA VIDA DE LAZARILLO DE TORMES Y DE SUS FORTUNAS Y ADVERSIDADES)A
+70 97 :M
+f0_12 sf
+-.019(Autor desconocido. Author unknown.)A
+70 115 :M
+-.007(Edici\227n de Burgos, 1554. Burgos edition, 1554)A
+70 133 :M
+1.889 .189({Interpolaciones de la edici\227n de Alcal\207 de Henares, 1554. Interpolations from Alcal\207 de)J
+70 151 :M
+-.018(Henares edition, 1554.})A
+70 205 :M
+-.166(Pr\227logo)A
+98 259 :M
+.546 .055(Yo por bien tengo que cosas tan se\226aladas, y por ventura nunca o\222das ni vistas, vengan a)J
+70 277 :M
+.018 .002(noticia de muchos y no se entierren en la sepultura del olvido, pues podr\222a ser que alguno que las)J
+70 295 :M
+.589 .059(lea halle algo que le agrade, y a los que no ahondaren tanto los deleite; y a este prop\227sito dice)J
+70 313 :M
+.247 .025(Plinio que no hay libro, por malo que sea, que no tenga alguna cosa buena; mayormente que los)J
+70 331 :M
+.62 .062(gustos no son todos unos, mas lo que uno no come, otro se pierde por ello. Y as\222 vemos cosas)J
+70 349 :M
+-.005(tenidas en poco de algunos, que de otros no lo son. Y esto, para ninguna cosa se debr\222a romper ni)A
+70 367 :M
+.178 .018(echar a mal, si muy detestable no fuese, sino que a todos se comunicase, mayormente siendo sin)J
+70 385 :M
+.443 .044(perjuicio y pudiendo sacar della alg\234n fruto; porque si as\222 no fuese, muy pocos escribir\222an para)J
+70 403 :M
+.925 .093(uno solo, pues no se hace sin trabajo, y quieren, ya que lo pasan, ser recompensados, no con)J
+70 421 :M
+.049 .005(dineros, mas con que vean y lean sus obras, y si hay de qu\216, se las alaben; y a este prop\227sito dice)J
+70 439 :M
+.612 .061(Tulio: \307La honra cr\222a las artes.\310 \300Qui\216n piensa que el soldado que es primero del escala, tiene)J
+70 457 :M
+.463 .046(m\207s aborrecido el vivir? No, por cierto; mas el deseo de alabanza le hace ponerse en peligro; y)J
+70 475 :M
+.779 .078(as\222, en las artes y letras es lo mesmo. Predica muy bien el presentado, y es hombre que desea)J
+70 493 :M
+.39 .039(mucho el provecho de las \207nimas; mas pregunten a su merced si le pesa cuando le dicen: \307\301Oh,)J
+70 511 :M
+1.765 .176(qu\216 maravillosamente lo ha hecho vuestra reverencia!\310 Just\227 muy ruinmente el se\226or don)J
+70 529 :M
+.285 .028(Fulano, y dio el sayete de armas al truh\207n, porque le loaba de haber llevado muy buenas lanzas.)J
+70 547 :M
+-.02(\300Qu\216 hiciera si fuera verdad?)A
+98 583 :M
+1.513 .151(Y todo va desta manera: que confesando yo no ser m\207s santo que mis vecinos, desta)J
+70 601 :M
+.298 .03(nonada, que en este grosero estilo escribo, no me pesar\207 que hayan parte y se huelguen con ello)J
+70 619 :M
+1.398 .14(todos los que en ella alg\234n gusto hallaren, y vean que vive un hombre con tantas fortunas,)J
+70 637 :M
+-.027(peligros y adversidades.)A
+98 673 :M
+.733 .073(Suplico a vuestra M. reciba el pobre servicio de mano de quien lo hiciera m\207s rico si su)J
+70 691 :M
+1.461 .146(poder y deseo se conformaran. Y pues V.M. escribe se le escriba y relate el caso por muy)J
+70 709 :M
+.143 .014(extenso, pareci\227me no tomalle por el medio, sino por el principio, porque se tenga entera noticia)J
+70 727 :M
+.478 .048(de mi persona, y tambi\216n porque consideren los que heredaron nobles estados cu\207n poco se les)J
+70 745 :M
+.265 .026(debe, pues Fortuna fue con ellos parcial, y cu\207nto m\207s hicieron los que, si\216ndoles contraria, con)J
+70 763 :M
+-.005(fuerza y ma\226a remando, salieron a buen puerto.)A
+endp
+%%Page: 3 3
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 3 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(2)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.069(Tratado Primero)A
+70 169 :M
+-.025(Cuenta L\207zaro su vida, y cuyo hijo fue)A
+98 241 :M
+1.857 .186(Pues sepa V.M. ante todas cosas que a m\222 llaman L\207zaro de Tormes, hijo de Tom\216)J
+70 259 :M
+-.015(Gonz\207lez y de Antona P\216rez, naturales de Tejares, aldea de Salamanca. Mi nacimiento fue dentro)A
+70 277 :M
+.377 .038(del r\222o Tormes, por la cual causa tom\216 el sobrenombre, y fue desta manera. Mi padre, que Dios)J
+70 295 :M
+.643 .064(perdone, ten\222a cargo de proveer una molienda de una ace\226a, que est\207 ribera de aquel r\222o, en la)J
+70 313 :M
+-.012(cual fue molinero m\207s de quince a\226os; y estando mi madre una noche en la ace\226a, pre\226ada de m\222,)A
+70 331 :M
+1.007 .101(tom\227le el parto y pari\227me all\222: de manera que con verdad puedo decir nacido en el r\222o. Pues)J
+70 349 :M
+.058 .006(siendo yo ni\226o de ocho a\226os, achacaron a mi padre ciertas sangr\222as mal hechas en los costales de)J
+70 367 :M
+.205 .02(los que all\222 a moler ven\222an, por lo que fue preso, y confes\227 y no neg\227 y padeci\227 persecuci\227n por)J
+70 385 :M
+.471 .047(justicia. Espero en Dios que est\207 en la Gloria, pues el Evangelio los llama bienaventurados. En)J
+70 403 :M
+.886 .089(este tiempo se hizo cierta armada contra moros, entre los cuales fue mi padre, que a la saz\227n)J
+70 421 :M
+.072 .007(estaba desterrado por el desastre ya dicho, con cargo de acemilero de un caballero que all\207 fue, y)J
+70 439 :M
+-.012(con su se\226or, como leal criado, feneci\227 su vida.)A
+98 475 :M
+.388 .039(Mi viuda madre, como sin marido y sin abrigo se viese, determin\227 arrimarse a los buenos)J
+70 493 :M
+.083 .008(por ser uno dellos, y v\222nose a vivir a la ciudad, y alquil\227 una casilla, y meti\227se a guisar de comer)J
+70 511 :M
+1.864 .186(a ciertos estudiantes, y lavaba la ropa a ciertos mozos de caballos del Comendador de la)J
+70 529 :M
+1.576 .158(Magdalena, de manera que fue frecuentando las caballerizas. Ella y un hombre moreno de)J
+70 547 :M
+.008 .001(aquellos que las bestias curaban, vinieron en conocimiento. \203ste algunas veces se ven\222a a nuestra)J
+70 565 :M
+.125 .013(casa, y se iba a la ma\226ana; otras veces de d\222a llegaba a la puerta, en achaque de comprar huevos,)J
+70 583 :M
+.514 .051(y entr\207base en casa. Yo al principio de su entrada, pes\207bame con \216l y hab\222ale miedo, viendo el)J
+70 601 :M
+.116 .012(color y mal gesto que ten\222a; mas de que vi que con su venida mejoraba el comer, fuile queriendo)J
+70 619 :M
+.021 .002(bien, porque siempre tra\222a pan, pedazos de carne, y en el invierno le\226os, a que nos calent\207bamos.)J
+70 637 :M
+.638 .064(De manera que, continuando con la posada y conversaci\227n, mi madre vino a darme un negrito)J
+70 655 :M
+.287 .029(muy bonito, el cual yo brincaba y ayudaba a calentar. Y acu\216rdome que, estando el negro de mi)J
+70 673 :M
+.071 .007(padre trebejando con el mozuelo, como el ni\226o v\222a a mi madre y a m\222 blancos, y a \216l no, hu\222a d\216l)J
+70 691 :M
+-.007(con miedo para mi madre, y se\226alando con el dedo dec\222a: \307\301Madre, coco!\310.)A
+98 727 :M
+-.03(Respondi\227 \216l riendo: \307\301Hideputa!\310)A
+98 763 :M
+-.006(Yo, aunque bien mochacho, not\216 aquella palabra de mi hermanico, y dije entre m\222:)A
+endp
+%%Page: 4 4
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 4 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(3)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+-.006(\307\301Cu\207ntos debe de haber en el mundo que huyen de otros porque no se ven a s\222 mesmos!\310)A
+98 133 :M
+.384 .038(Quiso nuestra fortuna que la conversaci\227n del Zaide, que as\222 se llamaba, lleg\227 a o\222dos del)J
+70 151 :M
+.205 .02(mayordomo, y hecha pesquisa, hall\227se que la mitad por medio de la cebada, que para las bestias)J
+70 169 :M
+.293 .029(le daban, hurtaba, y salvados, le\226a, almohazas, mandiles, y las mantas y s\207banas de los caballos)J
+70 187 :M
+.485 .049(hac\222a perdidas, y cuando otra cosa no ten\222a, las bestias desherraba, y con todo esto acud\222a a mi)J
+70 205 :M
+.915 .091(madre para criar a mi hermanico. No nos maravillemos de un cl\216rigo ni fraile, porque el uno)J
+70 223 :M
+.7 .07(hurta de los pobres y el otro de casa para sus devotas y para ayuda de otro tanto, cuando a un)J
+70 241 :M
+.574 .057(pobre esclavo el amor le animaba a esto. Y prob\227sele cuanto digo y aun m\207s, porque a m\222 con)J
+70 259 :M
+.742 .074(amenazas me preguntaban, y como ni\226o respond\222a, y descubr\222a cuanto sab\222a con miedo, hasta)J
+70 277 :M
+.898 .09(ciertas herraduras que pormandado de mi madre a un herrero vend\222. Al triste de mi padrastro)J
+70 295 :M
+.023 .002(azotaron y pringaron, y a mi madre pusieron pena por justicia, sobre el acostumbrado centenario,)J
+70 313 :M
+-.009(que en casa del sobredicho Comendador no entrase, ni al lastimado Zaide en la suya acogiese.)A
+98 349 :M
+.19 .019(Por no echar la soga tras el caldero, la triste se esforz\227 y cumpli\227 la sentencia; y por evitar)J
+70 367 :M
+.152 .015(peligro y quitarse de malas lenguas, se fue a servir a los que al presente viv\222an en el mes\227n de la)J
+70 385 :M
+.7 .07(Solana; y all\222, padeciendo mil importunidades, se acab\227 de criar mi hermanico hasta que supo)J
+70 403 :M
+-.012(andar, y a m\222 hasta ser buen mozuelo, que iba a los hu\216spedes por vino y candelas y por lo dem\207s)A
+70 421 :M
+-.02(que me mandaban.)A
+98 457 :M
+1.041 .104(En este tiempo vino a posar al mes\227n un ciego, el cual, pareci\216ndole que yo ser\222a para)J
+70 475 :M
+.214 .021(adestralle, me pidi\227 a mi madre, y ella me encomend\227 a \216l, dici\216ndole como era hijo de un buen)J
+70 493 :M
+.347 .035(hombre, el cual por ensalzar la fe hab\222a muerto en la de los Gelves, y que ella confiaba en Dios)J
+70 511 :M
+.349 .035(no saldr\222a peor hombre que mi padre, y que le rogaba me tratase bien y mirase por m\222, pues era)J
+70 529 :M
+.446 .045(hu\216rfano. \203l le respondi\227 que as\222 lo har\222a, y que me recib\222a no por mozo sino por hijo. Y as\222 le)J
+70 547 :M
+-.004(comenc\216 a servir y adestrar a mi nuevo y viejo amo.)A
+98 583 :M
+-.002(Como estuvimos en Salamanca algunos d\222as, pareci\216ndole a mi amo que no era la ganancia)A
+70 601 :M
+.264 .026(a su contento, determin\227 irse de all\222; y cuando nos hubimos de partir, yo fui a ver a mi madre, y)J
+70 619 :M
+-.007(ambos llorando, me dio su bendici\227n y dijo:)A
+98 655 :M
+.051 .005(\307Hijo, ya s\216 que no te ver\216 m\207s. Procura ser bueno, y Dios te gu\222e. Criado te he y con buen)J
+70 673 :M
+-.029(amo te he puesto. V\207lete por ti.\310)A
+98 709 :M
+.129 .013(Y as\222 me fui para mi amo, que esper\207ndome estaba. Salimos de Salamanca, y llegando a la)J
+70 727 :M
+1.27 .127(puente, est\207 a la entrada della un animal de piedra, que casi tiene forma de toro, y el ciego)J
+70 745 :M
+-.015(mand\227me que llegase cerca del animal, y all\222 puesto, me dijo:)A
+endp
+%%Page: 5 5
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 5 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(4)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+-.003(\307L\207zaro, llega el o\222do a este toro, y oir\207s gran ruido dentro d\216l.\310)A
+98 115 :M
+1.176 .118(Yo simplemente llegu\216, creyendo ser ans\222; y como sinti\227 que ten\222a la cabeza par de la)J
+70 133 :M
+.3 .03(piedra, afirm\227 recio la mano y diome una gran calabazada en el diablo del toro, que m\207s de tres)J
+70 151 :M
+-.013(d\222as me dur\227 el dolor de la cornada, y d\222jome:)A
+98 187 :M
+1.073 .107(\307Necio, aprende que el mozo del ciego un punto ha de saber m\207s que el diablo\310, y ri\227)J
+70 205 :M
+-.07(mucho la burla.)A
+98 241 :M
+.022 .002(Pareci\227me que en aquel instante despert\216 de la simpleza en que como ni\226o dormido estaba.)J
+70 259 :M
+-.049(Dije entre m\222:)A
+98 295 :M
+.188 .019(\307Verdad dice \216ste, que me cumple avivar el ojo y avisar, pues solo soy, y pensar c\227mo me)J
+70 313 :M
+-.027(sepa valer.\310)A
+98 349 :M
+.156 .016(Comenzamos nuestro camino, y en muy pocos d\222as me mostr\227 jerigonza, y como me viese)J
+70 367 :M
+-.023(de buen ingenio, holg\207base mucho, y dec\222a:)A
+98 403 :M
+-.007(\307Yo oro ni plata no te lo puedo dar, mas avisos para vivir muchos te mostrar\216.\310)A
+98 439 :M
+.33 .033(Y fue ans\222, que despu\216s de Dios \216ste me dio la vida, y siendo ciego me alumbr\227 y adestr\227)J
+70 457 :M
+1.054 .105(en la carrera de vivir. Huelgo de contar a V.M. estas ni\226er\222as para mostrar cu\207nta virtud sea)J
+70 475 :M
+-.003(saber los hombres subir siendo bajos, y dejarse bajar siendo altos cu\207nto vicio.)A
+98 511 :M
+.456 .046(Pues tornando al bueno de mi ciego y contando sus cosas, V.M. sepa que desde que Dios)J
+70 529 :M
+.807 .081(cri\227 el mundo, ninguno form\227 m\207s astuto ni sagaz. En su oficio era un \207guila; ciento y tantas)J
+70 547 :M
+-.002(oraciones sab\222a de coro: un tono bajo, reposado y muy sonable que hac\222a resonar la iglesia donde)A
+70 565 :M
+.159 .016(rezaba, un rostro humilde y devoto que con muy buen continente pon\222a cuando rezaba, sin hacer)J
+70 583 :M
+.045 .004(gestos ni visajes con boca ni ojos, como otros suelen hacer. Allende desto, ten\222a otras mil formas)J
+70 601 :M
+1.277 .128(y maneras para sacar el dinero. Dec\222a saber oraciones para muchos y diversos efectos: para)J
+70 619 :M
+1.169 .117(mujeres que no par\222an, para las que estaban de parto, para las que eran malcasadas, que sus)J
+70 637 :M
+-.002(maridos las quisiesen bien; echaba pron\227sticos a las pre\226adas, si tra\222a hijo o hija. Pues en caso de)A
+70 655 :M
+1.034 .103(medicina, dec\222a que Galeno no supo la mitad que \216l para muela, desmayos, males de madre.)J
+70 673 :M
+.975 .098(Finalmente, nadie le dec\222a padecer alguna pasi\227n, que luego no le dec\222a: \307Haced esto, hare\222s)J
+70 691 :M
+.156 .016(estotro, cosed tal yerba, tomad tal ra\222z.\310 Con esto and\207base todo el mundo tras \216l, especialmente)J
+70 709 :M
+-.005(mujeres, que cuanto les dec\222an cre\222an. Destas sacaba \216l grandes provechos con las artes que digo,)A
+70 727 :M
+-.012(y ganaba m\207s en un mes que cien ciegos en un a\226o.)A
+98 763 :M
+1.208 .121(Mas tambi\216n quiero que sepa vuestra merced que, con todo lo que adquir\222a, jam\207s tan)J
+endp
+%%Page: 6 6
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 6 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(5)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+1.897 .19(avariento ni mezquino hombre no vi, tanto que me mataba a m\222 de hambre, y as\222 no me)J
+70 97 :M
+1.448 .145(demediaba de lo necesario. Digo verdad: si con mi sotileza y buenas ma\226as no me supiera)J
+70 115 :M
+.368 .037(remediar, muchas veces me finara de hambre; mas con todo su saber y aviso le contaminaba de)J
+70 133 :M
+1.303 .13(tal suerte que siempre, o las m\207s veces, me cab\222a lo m\207s y mejor. Para esto le hac\222a burlas)J
+70 151 :M
+-.008(endiabladas, de las cuales contar\216 algunas, aunque no todas a mi salvo.)A
+98 187 :M
+.236 .024(\203l tra\222a el pan y todas las otras cosas en un fardel de lienzo que por la boca se cerraba con)J
+70 205 :M
+.061 .006(una argolla de hierro y su candado y su llave, y al meter de todas las cosas y sacallas, era con tan)J
+70 223 :M
+.562 .056(gran vigilancia y tanto por contadero, que no bastaba hombre en todo el mundo hacerle menos)J
+70 241 :M
+.216 .022(una migaja; mas yo tomaba aquella laceria que \216l me daba, la cual en menos de dos bocados era)J
+70 259 :M
+2.794 .279(despachada. Despu\216s que cerraba el candado y se descuidaba pensando que yo estaba)J
+70 277 :M
+.994 .099(entendiendo en otras cosas, por un poco de costura, que muchas veces del un lado del fardel)J
+70 295 :M
+.78 .078(descos\222a y tornaba a coser, sangraba el avariento fardel, sacando no por tasa pan, mas buenos)J
+70 313 :M
+.885 .088(pedazos, torreznos y longaniza; y ans\222 buscaba conveniente tiempo para rehacer, no la chaza,)J
+70 331 :M
+.686 .069(sino la endiablada falta que el mal ciego me faltaba. Todo lo que pod\222a sisar y hurtar, tra\222a en)J
+70 349 :M
+.862 .086(medias blancas; y cuando le mandaban rezar y le daban blancas, como \216l carec\222a de vista, no)J
+70 367 :M
+1.178 .118(hab\222a el que se la daba amagado con ella, cuando yo la ten\222a lanzada en la boca y la media)J
+70 385 :M
+.202 .02(aparejada, que por presto que \216l echaba la mano, ya iba de mi cambio aniquilada en la mitad del)J
+70 403 :M
+-.012(justo precio. Quej\207baseme el mal ciego, porque al tiento luego conoc\222a y sent\222a que no era blanca)A
+70 421 :M
+-.063(entera, y dec\222a:)A
+98 457 :M
+.168 .017(\307\300Qu\216 diablo es esto, que despu\216s que conmigo est\207s no me dan sino medias blancas, y de)J
+70 475 :M
+-.001(antes una blanca y un maraved\222 hartas veces me pagaban? En ti debe estar esta desdicha.\310)A
+98 511 :M
+1.712 .171(Tambien \216l abreviaba el rezar y la mitad de la oraci\227n no acababa, porque me ten\222a)J
+70 529 :M
+-.011(mandado que en y\216ndose el que la mandaba rezar, le tirase por el cabo del capuz. Yo as\222 lo hac\222a.)A
+70 547 :M
+-.001(Luego \216l tornaba a dar voces, diciendo: \307\300Mandan rezar tal y tal oraci\227n?\310, como suelen decir.)A
+98 583 :M
+.872 .087(Usaba poner cabe s\222 un jarrillo de vino cuando com\222amos, y yo muy de presto le as\222a y)J
+70 601 :M
+.007 .001(daba un par de besos callados y torn\207bale a su lugar. Mas tur\227me poco, que en los tragos conoc\222a)J
+70 619 :M
+.369 .037(la falta, y por reservar su vino a salvo nunca despu\216s desamparaba el jarro, antes lo ten\222a por el)J
+70 637 :M
+.335 .034(asa asido; mas no hab\222a piedra im\207n que as\222 trajese a s\222 como yo con una paja larga de centeno,)J
+70 655 :M
+.096 .01(que para aquel menester ten\222a hecha, la cual meti\216ndola en la boca del jarro, chupando el vino lo)J
+70 673 :M
+.386 .039(dejaba a buenas noches. Mas como fuese el traidor tan astuto, pienso que me sinti\227, y dende en)J
+70 691 :M
+.572 .057(adelante mud\227 prop\227sito, y asentaba su jarro entre las piernas, y atap\207bale con la mano, y ans\222)J
+70 709 :M
+.814 .081(beb\222a seguro. Yo, como estaba hecho al vino, mor\222a por \216l, y viendo que aquel remedio de la)J
+70 727 :M
+.626 .063(paja no me aprovechaba ni val\222a, acord\216 en el suelo del jarro hacerle una fuentecilla y agujero)J
+70 745 :M
+1.542 .154(sotil, y delicadamente con una muy delgada tortilla de cera taparlo, y al tiempo de comer,)J
+70 763 :M
+.791 .079(fingiendo haber fr\222o, entr\207bame entre las piernas del triste ciego a calentarme en la pobrecilla)J
+endp
+%%Page: 7 7
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 7 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(6)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.71 .071(lumbre que ten\222amos, y al calor della luego derretida la cera, por ser muy poca, comenzaba la)J
+70 97 :M
+.2 .02(fuentecilla a destillarme en la boca, la cual yo de tal manera pon\222a que maldita la gota se perd\222a.)J
+70 115 :M
+.309 .031(Cuando el pobreto iba a beber, no hallaba nada: espant\207base, maldec\222a, daba al diablo el jarro y)J
+70 133 :M
+-.018(el vino, no sabiendo qu\216 pod\222a ser.)A
+98 169 :M
+-.003(\307No dir\216is, t\222o, que os lo bebo yo -dec\222a-, pues no le quit\207is de la mano.\310)A
+98 205 :M
+1.366 .137(Tantas vueltas y tiento dio al jarro, que hall\227 la fuente y cay\227 en la burla; mas as\222 lo)J
+70 223 :M
+.322 .032(disimul\227 como si no lo hubiera sentido, y luego otro d\222a, teniendo yo rezumando mi jarro como)J
+70 241 :M
+.607 .061(sol\222a, no pensando en el da\226o que me estaba aparejado ni que el mal ciego me sent\222a, sent\216me)J
+70 259 :M
+.97 .097(como sol\222a, estando recibiendo aquellos dulces tragos, mi cara puesta hacia el cielo, un poco)J
+70 277 :M
+.634 .063(cerrados los ojos por mejor gustar el sabroso licor, sinti\227 el desesperado ciego que agora ten\222a)J
+70 295 :M
+.966 .097(tiempo de tomar de m\222 venganza y con toda su fuerza, alzando con dos manos aquel dulce y)J
+70 313 :M
+.232 .023(amargo jarro, le dej\227 caer sobre mi boca, ayud\207ndose, como digo, con todo su poder, de manera)J
+70 331 :M
+.27 .027(que el pobre L\207zaro, que de nada desto se guardaba, antes, como otras veces, estaba descuidado)J
+70 349 :M
+.802 .08(y gozoso, verdaderamente me pareci\227 que el cielo, con todo lo que en \216l hay, me hab\222a ca\222do)J
+70 367 :M
+.247 .025(encima. Fu\216 tal el golpecillo, que me desatin\227 y sac\227 de sentido, y el jarrazo tan grande, que los)J
+70 385 :M
+1.063 .106(pedazos d\216l se me metieron por la cara, rompi\216ndomela por muchas partes, y me quebr\227 los)J
+70 403 :M
+-.013(dientes, sin los cuales hasta hoy d\222a me qued\216.)A
+98 439 :M
+.719 .072(Desde aquella hora quise mal al mal ciego, y aunque me quer\222a y regalaba y me curaba,)J
+70 457 :M
+.208 .021(bien vi que se hab\222a holgado del cruel castigo. Lav\227me con vino las roturas que con los pedazos)J
+70 475 :M
+.621 .062(del jarro me hab\222a hecho, y sonri\216ndose dec\222a: \307\300Qu\216 te parece, L\207zaro? Lo que te enferm\227 te)J
+70 493 :M
+-.022(sana y da salud\310, y otros donaires que a mi)A
+98 511 :M
+-.061(gusto no lo eran.)A
+98 547 :M
+1.169 .117(Ya que estuve medio bueno de mi negra trepa y cardenales, considerando que a pocos)J
+70 565 :M
+.698 .07(golpes tales el cruel ciego ahorrar\222a de m\222, quise yo ahorrar d\216l; mas no lo hice tan presto por)J
+70 583 :M
+.958 .096(hacello m\207s a mi salvo y provecho. Y aunque yo quisiera asentar mi coraz\227n y perdonalle el)J
+70 601 :M
+.507 .051(jarrazo, no daba lugar el maltratamiento que el mal ciego dende all\222 adelante me hac\222a, que sin)J
+70 619 :M
+.355 .035(causa ni raz\227n me her\222a, d\207ndome coxcorrones y repel\207ndome. Y si alguno le dec\222a por qu\216 me)J
+70 637 :M
+-.015(trataba tan mal, luego contaba el cuento del jarro, diciendo:)A
+98 673 :M
+.386 .039(\307\300Pensar\216is que este mi mozo es alg\234n inocente? Pues o\222d si el demonio ensayara otra tal)J
+70 691 :M
+-.044(haza\226a.\310)A
+98 727 :M
+.115 .011(Santigu\207ndose los que lo o\222an, dec\222an: \307\301Mir\207, qui\216n pensara de un muchacho tan peque\226o)J
+70 745 :M
+1.208 .121(tal ruindad!\310, y re\222an mucho el artificio, y dec\222anle: \307Castigaldo, castigaldo, que de Dios lo)J
+70 763 :M
+-.081(habr\216is.\310)A
+endp
+%%Page: 8 8
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 8 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(7)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+1.027 .103(Y \216l con aquello nunca otra cosa hac\222a. Y en esto yo siempre le llevaba por los peores)J
+70 115 :M
+.447 .045(caminos, y adrede, por le hacer mal y da\226o: si hab\222a piedras, por ellas, si lodo, por lo m\207s alto;)J
+70 133 :M
+.6 .06(que aunque yo no iba por lo m\207s enjuto, holg\207bame a m\222 de quebrar un ojo por quebrar dos al)J
+70 151 :M
+.168 .017(que ninguno ten\222a. Con esto siempre con el cabo alto del tiento me atentaba el colodrillo, el cual)J
+70 169 :M
+.657 .066(siempre tra\222a lleno de tolondrones y pelado de sus manos; y aunque yo juraba no lo hacer con)J
+70 187 :M
+-.012(malicia, sino por no hallar mejor camino, no me aprovechaba ni me cre\222a m\207s: tal era el sentido y)A
+70 205 :M
+-.024(el grand\222simo entendimiento del traidor.)A
+98 241 :M
+.506 .051(Y porque vea V.M. a cu\207nto se estend\222a el ingenio deste astuto ciego, contar\216 un caso de)J
+70 259 :M
+1.103 .11(muchos que con \216l me acaecieron, en el cual me parece dio bien a entender su gran astucia.)J
+70 277 :M
+.271 .027(Cuando salimos de Salamanca, su motivo fue venir a tierra de Toledo, porque dec\222a ser la gente)J
+70 295 :M
+.153 .015(m\207s rica, aunque no muy limosnera. Arrim\207base a este refr\207n: \307M\207s da el duro que el desnudo.\310)J
+70 313 :M
+1.124 .112(Y venimos a este camino por los mejores lugares. Donde hallaba buena acogida y ganancia,)J
+70 331 :M
+-.004(deten\222amonos; donde no, a tercero d\222a hac\222amos Sant Juan.)A
+98 367 :M
+.647 .065(Acaeci\227 que llegando a un lugar que llaman Almorox, al tiempo que cog\222an las uvas, un)J
+70 385 :M
+1.462 .146(vendimiador le dio un racimo dellas en limosna, y como suelen ir los cestos maltratados y)J
+70 403 :M
+.369 .037(tambi\216n porque la uva en aquel tiempo est\207 muy madura, desgran\207basele el racimo en la mano;)J
+70 421 :M
+.141 .014(para echarlo en el fardel torn\207base mosto, y lo que a \216l se llegaba. Acord\227 de hacer un banquete,)J
+70 439 :M
+1.952 .195(ans\222 por no lo poder llevar como por contentarme, que aquel d\222a me hab\222a dado muchos)J
+70 457 :M
+-.005(rodillazos y golpes. Sent\207monos en un valladar y dijo:)A
+98 493 :M
+.063 .006(\307Agora quiero yo usar contigo de una liberalidad, y es que ambos comamos este racimo de)J
+70 511 :M
+-.003(uvas, y que hayas d\216l tanta parte como yo. Partillo hemos desta manera:)A
+98 529 :M
+.417 .042(t\234 picar\207s una vez y yo otra; con tal que me prometas no tomar cada vez m\207s de una uva,)J
+70 547 :M
+-.012(yo har\216 lo mesmo hasta que lo acabemos, y desta suerte no habr\207 enga\226o.\310)A
+98 583 :M
+1.108 .111(Hecho ans\222 el concierto, comenzamos; mas luego al segundo lance; el traidor mud\227 de)J
+70 601 :M
+.3 .03(prop\227sito y comenz\227 a tomar de dos en dos, considerando que yo debr\222a hacer lo mismo. Como)J
+70 619 :M
+.414 .041(vi que \216l quebraba la postura, no me content\216 ir a la par con \216l, mas aun pasaba adelante: dos a)J
+70 637 :M
+.064 .006(dos, y tres a tres, y como pod\222a las com\222a. Acabado el racimo, estuvo un poco con el escobajo en)J
+70 655 :M
+-.028(la mano y meneando la cabeza dijo:)A
+98 691 :M
+-.002(\307L\207zaro, enga\226ado me has: jurar\216 yo a Dios que has t\234 comido las uvas tres a tres.\310)A
+98 727 :M
+-.005(\307No com\222 -dije yo- mas \300por qu\216 sospech\207is eso?\310)A
+98 763 :M
+-.022(Respondi\227 el sagac\222simo ciego:)A
+endp
+%%Page: 9 9
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 9 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(8)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+.146 .015(\307\300Sabes en qu\216 veo que las comiste tres a tres? En que com\222a yo dos a dos y callabas.\310{, a)J
+70 115 :M
+1.342 .134(lo cual yo no respond\222. Yendo que \222bamos ans\222 por debajo de unos soportales en Escalona,)J
+70 133 :M
+.649 .065(adonde a la saz\227n est\207bamos en casa de un zapatero, hab\222a muchas sogas y otras cosas que de)J
+70 151 :M
+.382 .038(esparto se hacen, y parte dellas dieron a mi amo en la cabeza; el cual, alzando la mano, toc\227 en)J
+70 169 :M
+-.019(ellas, y viendo lo que era d\222jome:)A
+98 205 :M
+-.002(\307Anda presto, mochacho; salgamos de entre tan mal manjar, que ahoga sin comerlo.\310)A
+98 241 :M
+1.598 .16(Yo, que bien descuidado iba de aquello, mir\216 lo que era, y como no vi sino sogas y)J
+70 259 :M
+-.014(cinchas, que no era cosa de comer, d\222jele:)A
+98 295 :M
+-.011(\307T\222o, \300por qu\216 dec\222s eso?\310)A
+98 331 :M
+-.029(Respondi\227me:)A
+98 367 :M
+-.003(\307Calla, sobrino; seg\234n las ma\226as que llevas, lo sabr\207s y ver\207s como digo verdad.\310)A
+98 403 :M
+.501 .05(Y ans\222 pasamos adelante por el mismo portal y llegamos a un mes\227n, a la puerta del cual)J
+70 421 :M
+.086 .009(hab\222a muchos cuernos en la pared, donde ataban los recueros sus bestias. Y como iba tentando si)J
+70 439 :M
+.034 .003(era all\222 el mes\227n, adonde \216l rezaba cada d\222a por la mesonera la oraci\227n de la emparedada, asi\227 de)J
+70 457 :M
+-.026(un cuerno, y con un gran sospiro dijo:)A
+98 493 :M
+1.196 .12(\307\301O mala cosa, peor que tienes la hechura! \301De cu\207ntos eres deseado poner tu nombre)J
+70 511 :M
+-.01(sobre cabeza ajena y de cu\207n pocos tenerte ni aun o\222r tu nombre, por ninguna v\222a!\310)A
+98 547 :M
+-.022(Como le o\222 lo que dec\222a, dije:)A
+98 583 :M
+-.022(\307T\222o, \300qu\216 es eso que dec\222s?\310)A
+98 619 :M
+.684 .068(\307Calla, sobrino, que alg\234n d\222a te dar\207 \216ste, que en la mano tengo, alguna mala comida y)J
+70 637 :M
+-.196(cena.\310)A
+98 673 :M
+-.014(\307No le comer\216 yo -dije- y no me la dar\207.\310)A
+98 709 :M
+-.013(\307Yo te digo verdad; si no, verlo has, si vives.\310)A
+98 745 :M
+.915 .092(Y ans\222 pasamos adelante hasta la puerta del mes\227n, adonde pluguiere a Dios nunca all\207)J
+70 763 :M
+-.022(lleg\207ramos, seg\234n lo que me suced\222a en \216l.)A
+endp
+%%Page: 10 10
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 10 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+530 803 :M
+(9)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+.062 .006(Era todo lo m\207s que rezaba por mesoneras y por bodegoneras y turroneras y rameras y ans\222)J
+70 115 :M
+-.013(por semejantes mujercillas, que por hombre casi nunca le vi decir oraci\227n.})A
+98 151 :M
+-.006(Re\222me entre m\222, y aunque mochacho not\216 mucho la discreta consideraci\227n del ciego.)A
+98 187 :M
+.385 .038(Mas por no ser prolijo dejo de contar muchas cosas, as\222 graciosas como de notar, que con)J
+70 205 :M
+-.002(este mi primer amo me acaecieron, y quiero decir el despidiente y con \216l acabar.)A
+98 241 :M
+2.009 .201(Est\207bamos en Escalona, villa del duque della, en un mes\227n, y di\227me un pedazo de)J
+70 259 :M
+.685 .069(longaniza que la asase. Ya que la longaniza hab\222a pringado y com\222dose las pringadas, sac\227 un)J
+70 277 :M
+1.267 .127(maraved\222 de la bolsa y mand\227 que fuese por \216l de vino a la taberna. P\234some el demonio el)J
+70 295 :M
+.08 .008(aparejo delante los ojos, el cual, como suelen decir, hace al ladr\227n, y fue que hab\222a cabe el fuego)J
+70 313 :M
+.423 .042(un nabo peque\226o, larguillo y ruinoso, y tal que, por no ser para la olla, debi\227 ser echado all\222. Y)J
+70 331 :M
+.163 .016(como al presente nadie estuviese sino \216l y yo solos, como me vi con apetito goloso, habi\216ndome)J
+70 349 :M
+.692 .069(puesto dentro el sabroso olor de la longaniza, del cual solamente sab\222a que hab\222a de gozar, no)J
+70 367 :M
+.297 .03(mirando qu\216 me podr\222a suceder, pospuesto todo el temor por cumplir con el deseo, en tanto que)J
+70 385 :M
+.043 .004(el ciego sacaba de la bolsa el dinero, saqu\216 la longaniza y muy presto met\222 el sobredicho nabo en)J
+70 403 :M
+1.109 .111(el asador, el cual mi amo, d\207ndome el dinero para el vino, tom\227 y comenz\227 a dar vueltas al)J
+70 421 :M
+-.007(fuego, queriendo asar al que de ser cocido por sus dem\216ritos hab\222a escapado.)A
+98 457 :M
+.527 .053(Yo fui por el vino, con el cual no tard\216 en despachar la longaniza, y cuando vine hall\216 al)J
+70 475 :M
+.232 .023(pecador del ciego que ten\222a entre dos rebanadas apretado el nabo, al cual a\234n no hab\222a conocido)J
+70 493 :M
+.393 .039(por no lo haber tentado con la mano. Como tomase las rebanadas y mordiese en ellas pensando)J
+70 511 :M
+-.006(tambi\216n llevar parte de la longaniza, hall\227se en fr\222o con el fr\222o nabo. Alter\227se y dijo:)A
+98 547 :M
+-.011(\307\300Qu\216 es esto, Lazarillo?\310)A
+98 583 :M
+.527 .053(\307\301Lacerado de m\222! -dije yo-. \300Si quer\216is a m\222 \216char algo? \300Yo no vengo de traer el vino?)J
+70 601 :M
+-.014(Alguno estaba ah\222, y por burlar har\222a esto.\310)A
+98 637 :M
+-.003(\307No, no -dijo \216l-,que yo no he dejado el asador de la mano; no es posible \310)A
+98 673 :M
+1.667 .167(Yo torn\216 a jurar y perjurar que estaba libre de aquel trueco y cambio; mas poco me)J
+70 691 :M
+.349 .035(aprovech\227, pues a las astucias del maldito ciego nada se le escond\222a. Levant\227se y asi\227me por la)J
+70 709 :M
+.878 .088(cabeza, y lleg\227se a olerme; y como debi\227 sentir el huelgo, a uso de buen podenco, por mejor)J
+70 727 :M
+.126 .013(satisfacerse de la verdad, y con la gran agon\222a que llevaba, asi\216ndome con las manos, abr\222ame la)J
+70 745 :M
+.396 .04(boca m\207s de su derecho y desatentadamente met\222a la nariz, la cual \216l ten\222a luenga y afilada, y a)J
+70 763 :M
+.336 .034(aquella saz\227n con el enojo se hab\222an augmentado un palmo, con el pico de la cual me lleg\227 a la)J
+endp
+%%Page: 11 11
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 11 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(10)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+1.635 .164(gulilla. Y con esto y con el gran miedo que ten\222a, y con la brevedad del tiempo, la negra)J
+70 97 :M
+.448 .045(longaniza a\234n no hab\222a hecho asiento en el est\227mago, y lo m\207s principal, con el destiento de la)J
+70 115 :M
+.05 .005(cumplid\222sima nariz medio cuasi ahog\207ndome, todas estas cosas se juntaron y fueron causa que el)J
+70 133 :M
+.079 .008(hecho y golosina se manifestase y lo suyo fuese devuelto a su due\226o: de manera que antes que el)J
+70 151 :M
+.212 .021(mal ciego sacase de mi boca su trompa, tal alteraci\227n sinti\227 mi est\227mago que le dio con el hurto)J
+70 169 :M
+-.005(en ella, de suerte que su nariz y la negra malmaxcada longaniza a un tiempo salieron de mi boca.)A
+98 205 :M
+.202 .02(\301Oh, gran Dios, qui\216n estuviera aquella hora sepultado, que muerto ya lo estaba! Fue tal el)J
+70 223 :M
+1.849 .185(coraje del perverso ciego que, si al ruido no acudieran, pienso no me dejara con la vida.)J
+70 241 :M
+-.001(Sac\207ronme de entre sus manos, dej\207ndoselas llenas de aquellos pocos cabellos que ten\222a, ara\226ada)A
+70 259 :M
+.807 .081(la cara y rascu\226ado el pescuezo y la garganta; y esto bien lo merec\222a, pues por su maldad me)J
+70 277 :M
+-.01(ven\222an tantas persecuciones.)A
+98 313 :M
+.286 .029(Contaba el mal ciego a todos cuantos all\222 se allegaban mis desastres, y d\207bales cuenta una)J
+70 331 :M
+.353 .035(y otra vez, as\222 de la del jarro como de la del racimo, y agora de lo presente. Era la risa de todos)J
+70 349 :M
+-.004(tan grande que toda la gente que por la calle pasaba entraba a ver la fiesta; mas con tanta gracia y)A
+70 367 :M
+1.086 .109(donaire recontaba el ciego mis haza\226as que, aunque yo estaba tan maltratado y llorando, me)J
+70 385 :M
+-.005(parec\222a que hac\222a sinjusticia en no se las re\222r.)A
+98 421 :M
+.385 .038(Y en cuanto esto pasaba, a la memoria me vino una cobard\222a y flojedad que hice, por que)J
+70 439 :M
+.322 .032(me maldec\222a, y fue no dejalle sin narices, pues tan buen tiempo tuve para ello que la meitad del)J
+70 457 :M
+.905 .091(camino estaba andado; que con s\227lo apretar los dientes se me quedaran en casa, y con ser de)J
+70 475 :M
+1.718 .172(aquel malvado, por ventura lo retuviera mejor mi est\227mago que retuvo la longaniza, y no)J
+70 493 :M
+.105 .01(pareciendo ellas pudiera negar la demanda. Pluguiera a Dios que lo hubiera hecho, que eso fuera)J
+70 511 :M
+.273 .027(as\222 que as\222. Hici\216ronnos amigos la mesonera y los que all\222 estaban, y con el vino que para beber)J
+70 529 :M
+.465 .046(le hab\222a tra\222do, lav\207ronme la cara y la garganta, sobre lo cual discantaba el mal ciego donaires,)J
+70 547 :M
+-.082(diciendo:)A
+98 583 :M
+.688 .069(\307Por verdad, m\207s vino me gasta este mozo en lavatorios al cabo del a\226o que yo bebo en)J
+70 601 :M
+1.734 .173(dos. A lo menos, L\207zaro, eres en m\207s cargo al vino que a tu padre, porque \216l una vez te)J
+70 619 :M
+-.013(engendr\227, mas el vino mil te ha dado la vida.\310)A
+98 655 :M
+.291 .029(Y luego contaba cu\207ntas veces me hab\222a descalabrado y harpado la cara, y con vino luego)J
+70 673 :M
+-.108(sanaba.)A
+98 709 :M
+.502 .05(\307Yo te digo -dijo- que si un hombre en el mundo ha de ser bienaventurado con vino, que)J
+70 727 :M
+-.035(ser\207s t\234.\310)A
+98 763 :M
+.736 .074(Y re\222an mucho los que me lavaban con esto, aunque yo renegaba. Mas el pron\227stico del)J
+endp
+%%Page: 12 12
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 12 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(11)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+-.012(ciego no sali\227 mentiroso, y despu\216s ac\207 muchas veces me acuerdo de aquel hombre, que sin duda)A
+70 97 :M
+.188 .019(deb\222a tener sp\222ritu de profec\222a, y me pesa de los sinsabores que le hice, aunque bien se lo pagu\216,)J
+70 115 :M
+-.002(considerando lo que aquel d\222a me dijo salirme tan verdadero como adelante V.M. oir\207.)A
+98 151 :M
+.07 .007(Visto esto y las malas burlas que el ciego burlaba de m\222, determin\216 de todo en todo dejalle,)J
+70 169 :M
+.103 .01(y como lo tra\222a pensado y lo ten\222a en voluntad, con este postrer juego que me hizo afirm\216lo m\207s.)J
+70 187 :M
+.985 .098(Y fue ans\222, que luego otro d\222a salimos por la villa a pedir limosna, y hab\222a llovido mucho la)J
+70 205 :M
+.764 .076(noche antes; y porque el d\222a tambi\216n llov\222a, y andaba rezando debajo de unos portales que en)J
+70 223 :M
+.506 .051(aquel pueblo hab\222a, donde no nos mojamos; mas como la noche se ven\222a y el llover no cesaba,)J
+70 241 :M
+-.021(dij\227me el ciego:)A
+98 277 :M
+-.016(\307L\207zaro, esta agua es muy porfiada, y cuanto la noche m\207s cierra, m\207s recia. Acoj\207monos a)A
+70 295 :M
+-.03(la posada con tiempo.\310)A
+98 331 :M
+-.009(Para ir all\207, hab\222amos de pasar un arroyo que con la mucha agua iba grande. Yo le dije:)A
+98 367 :M
+.523 .052(\307T\222o, el arroyo va muy ancho; mas si quer\216is, yo veo por donde travesemos m\207s a\222na sin)J
+70 385 :M
+-.011(nos mojar, porque se estrecha all\222 mucho, y saltando pasaremos a pie enjuto.\310)A
+98 421 :M
+-.021(Pareci\227le buen consejo y dijo:)A
+98 457 :M
+.134 .013(\307Discreto eres; por esto te quiero bien. Ll\216vame a ese lugar donde el arroyo se ensangosta,)J
+70 475 :M
+-.003(que agora es invierno y sabe mal el agua, y m\207s llevar los pies mojados.\310)A
+98 511 :M
+.627 .063(Yo, que vi el aparejo a mi deseo, saqu\216le debajo de los portales, y llev\216lo derecho de un)J
+70 529 :M
+.455 .045(pilar o poste de piedra que en la plaza estaba, sobre la cual y sobre otros cargaban saledizos de)J
+70 547 :M
+-.04(aquellas casas, y d\222gole:)A
+98 583 :M
+-.01(\307Tio, \216ste es el paso m\207s angosto que en el arroyo hay.\310)A
+98 619 :M
+.56 .056(Como llov\222a recio, y el triste se mojaba, y con la priesa que llev\207bamos de salir del agua)J
+70 637 :M
+.589 .059(que encima de nos ca\222a, y lo m\207s principal, porque Dios le ceg\227 aquella hora el entendimiento)J
+70 655 :M
+-.018(\(fue por darme d\216l venganza\), crey\227se de m\222 y dijo:)A
+98 691 :M
+-.006(\307Ponme bien derecho, y salta t\234 el arroyo.\310)A
+98 727 :M
+-.006(Yo le puse bien derecho enfrente del pilar, y doy un salto y p\227ngome detr\207s del poste como)A
+70 745 :M
+-.017(quien espera tope de toro, y d\222jele:)A
+endp
+%%Page: 13 13
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 13 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(12)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+-.014(\307\301Sus! Salt\207 todo lo que pod\207is, porque deis deste cabo del agua.\310)A
+98 115 :M
+-.017(Aun apenas lo hab\222a acabado de decir cuando se abalanza el pobre ciego como cabr\227n, y de)A
+70 133 :M
+.251 .025(toda su fuerza arremete, tomando un paso atr\207s de la corrida para hacer mayor salto, y da con la)J
+70 151 :M
+.645 .065(cabeza en el poste, que son\227 tan recio como si diera con una gran calabaza, y cay\227 luego para)J
+70 169 :M
+-.023(atr\207s, medio muerto y hendida la cabeza.)A
+98 205 :M
+-.003(\307\300C\227mo, y olistes la longaniza y no el poste? \301Ol\216! \301Ol\216! -le dije yo.)A
+98 241 :M
+.365 .037(Y dej\216le en poder de mucha gente que lo hab\222a ido a socorrer, y tom\216 la puerta de la villa)J
+70 259 :M
+.231 .023(en los pies de un trote, y antes que la noche viniese di conmigo en Torrijos. No supe m\207s lo que)J
+70 277 :M
+-.027(Dios d\216l hizo, ni cur\216 de lo saber.)A
+endp
+%%Page: 14 14
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 14 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(13)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.022(Tratado Segundo)A
+70 169 :M
+-.013(C\227mo L\207zaro se asent\227 con un cl\216rigo, y de las cosas que con \216l pas\227)A
+98 241 :M
+.081 .008(Otro d\222a, no pareci\216ndome estar all\222 seguro, fuime a un lugar que llaman Maqueda, adonde)J
+70 259 :M
+1.197 .12(me toparon mis pecados con un cl\216rigo que, llegando a pedir limosna, me pregunt\227 si sab\222a)J
+70 277 :M
+.674 .067(ayudar a misa. Yo dije que s\222, como era verdad; que, aunque maltratado, mil cosas buenas me)J
+70 295 :M
+.689 .069(mostr\227 el pecador del ciego, y una dellas fue \216sta. Finalmente, el cl\216rigo me recibi\227 por suyo.)J
+70 313 :M
+.402 .04(Escap\216 del trueno y di en el rel\207mpago, porque era el ciego para con \216ste un Alejandro Magno,)J
+70 331 :M
+.74 .074(con ser la mesma avaricia, como he contado. No digo m\207s sino que toda la laceria del mundo)J
+70 349 :M
+-.008(estaba encerrada en \216ste. No s\216 si de su cosecha era, o lo hab\222a anexado con el h\207bito de clerec\222a.)A
+98 385 :M
+1.629 .163(\203l ten\222a un arcaz viejo y cerrado con su llave, la cual tra\222a atada con un agujeta del)J
+70 403 :M
+.332 .033(paletoque, y en viniendo el bodigo de la iglesia, por su mano era luego all\222 lanzado, y tornada a)J
+70 421 :M
+-.015(cerrar el arca. Y en toda la casa no hab\222a ninguna cosa de comer, como suele estar en otras: alg\234n)A
+70 439 :M
+.541 .054(tocino colgado al humero, alg\234n queso puesto en alguna tabla o en el armario, alg\234n canastillo)J
+70 457 :M
+.209 .021(con algunos pedazos de pan que de la mesa sobran; que me parece a m\222 que aunque dello no me)J
+70 475 :M
+.695 .069(aprovechara, con la vista dello me consolara. Solamente hab\222a una horca de cebollas, y tras la)J
+70 493 :M
+.335 .033(llave en una c\207mara en lo alto de la casa. Destas ten\222a yo de raci\227n una para cada cuatro d\222as; y)J
+70 511 :M
+.447 .045(cuando le ped\222a la llave para ir por ella, si alguno estaba presente, echaba mano al falsopecto y)J
+70 529 :M
+.618 .062(con gran continencia la desataba y me la daba diciendo: \307Toma, y vu\216lvela luego, y no hag\207is)J
+70 547 :M
+.522 .052(sino golosinar\310, como si debajo della estuvieran todas las conservas de Valencia, con no haber)J
+70 565 :M
+.819 .082(en la dicha c\207mara, como dije, maldita la otra cosa que las cebollas colgadas de un clavo, las)J
+70 583 :M
+.124 .012(cuales \216l ten\222a tan bien por cuenta, que si por malos de mis pecados me desmandara a m\207s de mi)J
+70 601 :M
+.872 .087(tasa, me costara caro. Finalmente, yo me finaba de hambre. Pues, ya que conmigo ten\222a poca)J
+70 619 :M
+.147 .015(caridad, consigo usaba m\207s. Cinco blancas de carne era su ordinario para comer y cenar. Verdad)J
+70 637 :M
+1.204 .12(es que part\222a comigo del caldo, que de la carne, \301tan blanco el ojo!, sino un poco de pan, y)J
+70 655 :M
+.453 .045(\301pluguiera a Dios que me demediara! Los s\207bados c\227mense en esta tierra cabezas de carnero, y)J
+70 673 :M
+.043 .004(envi\207bame por una que costaba tres maraved\222s. Aqu\216lla le coc\222a y com\222a los ojos y la lengua y el)J
+70 691 :M
+1.86 .186(cogote y sesos y la carne que en las quijadas ten\222a, y d\207bame todos los huesos ro\222dos, y)J
+70 709 :M
+-.031(d\207bamelos en el plato, diciendo:)A
+98 745 :M
+-.011(\307Toma, come, triunfa, que para ti es el mundo. Mejor vida tienes que el Papa.\310)A
+endp
+%%Page: 15 15
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 15 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(14)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+-.005(\307\301Tal te la d\216 Dios!\310, dec\222a yo paso entre m\222.)A
+98 115 :M
+.394 .039(A cabo de tres semanas que estuve con \216l, vine a tanta flaqueza que no me pod\222a tener en)J
+70 133 :M
+1.817 .182(las piernas de pura hambre. Vime claramente ir a la sepultura, si Dios y mi saber no me)J
+70 151 :M
+.502 .05(remediaran. Para usar de mis ma\226as no ten\222a aparejo, por no tener en qu\216 dalle salto; y aunque)J
+70 169 :M
+-.015(algo hubiera, no podia cegalle, como hac\222a al que Dios perdone, si de aquella calabazada feneci\227,)A
+70 187 :M
+1.803 .18(que todav\222a, aunque astuto, con faltalle aquel preciado sentido no me sent\222a; m\207s estotro,)J
+70 205 :M
+.38 .038(ninguno hay que tan aguda vista tuviese como \216l ten\222a. Cuando al ofertorio est\207bamos, ninguna)J
+70 223 :M
+.695 .07(blanca en la concha ca\222a que no era d\216l registrada: el un ojo ten\222a en la gente y el otro en mis)J
+70 241 :M
+.104 .01(manos. Bail\207banle los ojos en el caxco como si fueran de azogue. Cuantas blancas ofrec\222an ten\222a)J
+70 259 :M
+.469 .047(por cuenta; y acabado el ofrecer, luego me quitaba la concheta y la pon\222a sobre el altar. No era)J
+70 277 :M
+1.05 .105(yo se\226or de asirle una blanca todo el tiempo que con \216l vev\222 o, por mejor decir, mor\222. De la)J
+70 295 :M
+.361 .036(taberna nunca le traje una blanca de vino, mas aquel poco que de la ofrenda hab\222a metido en su)J
+70 313 :M
+.689 .069(arcaz compasaba de tal forma que le turaba toda la semana, y por ocultar su gran mezquindad)J
+70 331 :M
+-.044(dec\222ame:)A
+98 367 :M
+.266 .027(\307Mira, mozo, los sacerdotes han de ser muy templados en su comer y beber, y por esto yo)J
+70 385 :M
+-.037(no me desmando como otros.\310)A
+98 421 :M
+.179 .018(Mas el lacerado ment\222a falsamente, porque en cofrad\222as y mortuorios que rezamos, a costa)J
+70 439 :M
+.842 .084(ajena com\222a como lobo y beb\222a m\207s que un saludador. Y porque dije de mortuorios, Dios me)J
+70 457 :M
+1.631 .163(perdone, que jam\207s fui enemigo de la naturaleza humana sino entonces, y esto era porque)J
+70 475 :M
+.984 .098(com\222amos bien y me hartaban. Deseaba y aun rogaba a Dios que cada d\222a matase el suyo. Y)J
+70 493 :M
+.621 .062(cuando d\207bamos sacramento a los enfermos, especialmente la extrema unci\227n, como manda el)J
+70 511 :M
+.029 .003(cl\216rigo rezar a los que est\207n all\222, yo cierto no era el postrero de la oracion, y con todo mi coraz\227n)J
+70 529 :M
+.671 .067(y buena voluntad rogaba al Se\226or, no que la echase a la parte que m\207s servido fuese, como se)J
+70 547 :M
+.206 .021(suele decir, mas que le llevase de aqueste mundo. Y cuando alguno de \216stos escapaba, \301Dios me)J
+70 565 :M
+-.005(lo perdone!, que mil veces le daba al diablo, y el que se mor\222a otras tantas bendiciones llevaba de)A
+70 583 :M
+1.13 .113(m\222 dichas. Porque en todo el tiempo que all\222 estuve, que ser\222a cuasi seis meses, solas veinte)J
+70 601 :M
+1.742 .174(personas fallecieron, y \216stas bien creo que las mat\216 yo o, por mejor decir, murieron a mi)J
+70 619 :M
+.367 .037(recuesta; porque viendo el Se\226or mi rabiosa y continua muerte, pienso que holgaba de matarlos)J
+70 637 :M
+.692 .069(por darme a m\222 vida. Mas de lo que al presente padec\222a, remedio no hallaba, que si el d\222a que)J
+70 655 :M
+1.319 .132(enterr\207bamos yo viv\222a, los d\222as que no hab\222a muerto, por quedar bien vezado de la hartura,)J
+70 673 :M
+.2 .02(tornando a mi cuotidiana hambre, m\207s lo sent\222a. De manera que en nada hallaba descanso, salvo)J
+70 691 :M
+.251 .025(en la muerte, que yo tambi\216n para m\222 como para los otros deseaba algunas veces; mas no la v\222a,)J
+70 709 :M
+-.022(aunque estaba siempre en m\222.)A
+98 745 :M
+.021 .002(Pens\216 muchas veces irme de aquel mezquino amo, mas por dos cosas lo dejaba: la primera,)J
+70 763 :M
+-.004(por no me atrever a mis piernas, por temer de la flaqueza que de pura hambre me ven\222a; y la otra,)A
+endp
+%%Page: 16 16
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 16 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(15)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+-.05(consideraba y decia:)A
+98 115 :M
+1.274 .127(\307Yo he tenido dos amos: el primero tra\222ame muerto de hambre y, dej\207ndole, top\216 con)J
+70 133 :M
+.66 .066(estotro, que me tiene ya con ella en la sepultura. Pues si deste desisto y doy en otro m\207s bajo,)J
+70 151 :M
+-.025(\300qu\216 ser\207 sino fenecer?\310)A
+98 187 :M
+.006 .001(Con esto no me osaba menear, porque ten\222a por fe que todos los grados hab\222a de hallar m\207s)J
+70 205 :M
+-.012(ruines; y a abajar otro punto, no sonara L\207zaro ni se oyera en el mundo.)A
+98 241 :M
+1.029 .103(Pues, estando en tal aflici\227n, cual plega al Se\226or librar della a todo fiel cristiano, y sin)J
+70 259 :M
+.72 .072(saber darme consejo, vi\216ndome ir de mal en peor, un d\222a que el cuitado ruin y lacerado de mi)J
+70 277 :M
+.765 .077(amo hab\222a ido fuera del lugar, lleg\227se acaso a mi puerta un calderero, el cual yo creo que fue)J
+70 295 :M
+-.006(\207ngel enviado a m\222 por la mano de Dios en aquel h\207bito. Pregunt\227me si ten\222a algo que adobar.)A
+98 331 :M
+.074 .007(\307En m\222 ten\222ades bien que hacer, y no har\222ades poco si me remedi\207sedes\310, dije paso, que no)J
+70 349 :M
+.145 .015(me oy\227; mas como no era tiempo de gastarlo en decir gracias, alumbrado por el Sp\222ritu Santo, le)J
+70 367 :M
+-.082(dije:)A
+98 403 :M
+.329 .033(\307Tio, una llave de este arca he perdido, y temo mi se\226or me azote. Por vuestra vida, ve\207is)J
+70 421 :M
+-.013(si en \216sas que tra\216is hay alguna que le haga, que yo os lo pagar\216.\310)A
+98 457 :M
+.316 .032(Comenz\227 a probar el ang\216lico caldedero una y otra de un gran sartal que dellas tra\222a, y yo)J
+70 475 :M
+.618 .062(ayudalle con mis flacas oraciones. Cuando no me cato, veo en figura de panes, como dicen, la)J
+70 493 :M
+-.004(cara de Dios dentro del arcaz; y, abierto, d\222jele:)A
+98 529 :M
+-.003(\307Yo no tengo dineros que os dar por la llave, mas tomad de ah\222 el pago.\310)A
+98 565 :M
+.727 .073(\203l tom\227 un bodigo de aqu\216llos, el que mejor le pareci\227, y d\207ndome mi llave se fue muy)J
+70 583 :M
+.62 .062(contento, dej\207ndome m\207s a m\222. Mas no toqu\216 en nada por el presente, porque no fuese la falta)J
+70 601 :M
+1.304 .13(sentida, y aun, porque me vi de tanto bien se\226or, pareci\227me que la hambre no se me osaba)J
+70 619 :M
+-.002(allegar. Vino el m\222sero de mi amo, y quiso Dios no mir\227 en la oblada que el \207ngel hab\222a llevado.)A
+98 655 :M
+.117 .012(Y otro d\222a, en saliendo de casa, abro mi para\222so panal, y tomo entre las manos y dientes un)J
+70 673 :M
+.055 .006(bodigo, y en dos credos le hice invisible, no se me olvidando el arca abierta; y comienzo a barrer)J
+70 691 :M
+.197 .02(la casa con mucha alegr\222a, pareci\216ndome con aquel remedio remediar dende en adelante la triste)J
+70 709 :M
+.658 .066(vida. Y as\222 estuve con ello aquel d\222a y otro gozoso. Mas no estaba en mi dicha que me durase)J
+70 727 :M
+.351 .035(mucho aquel descanso, porque luego al tercero d\222a me vino la terciana derecha, y fue que veo a)J
+70 745 :M
+.576 .058(deshora al que me mataba de hambre sobre nuestro arcaz volviendo y revolviendo, contando y)J
+70 763 :M
+-.01(tornando a contar los panes.)A
+endp
+%%Page: 17 17
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 17 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(16)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+1.308 .131(Yo disimulaba, y en mi secreta oraci\227n y devociones y plegarias dec\222a: \307\301Sant Juan y)J
+70 115 :M
+-.121(ci\216gale!\310)A
+98 151 :M
+-.006(Despu\216s que estuvo un gran rato echando la cuenta, por d\222as y dedos contando, dijo:)A
+98 187 :M
+.507 .051(\307Si no tuviera a tan buen recaudo esta arca, yo dijera que me hab\222an tomado della panes;)J
+70 205 :M
+.807 .081(pero de hoy m\207s, s\227lo por cerrar la puerta a la sospecha, quiero tener buena cuenta con ellos:)J
+70 223 :M
+-.011(nueve quedan y un pedazo.\310)A
+98 259 :M
+-.02(\307\301Nuevas malas te d\216 Dios!\310, dijo yo entre m\222.)A
+98 295 :M
+1.266 .127(Pareci\227me con lo que dijo pasarme el coraz\227n con saeta de montero, y comenz\227me el)J
+70 313 :M
+.578 .058(est\227mago a escarbar de hambre, vi\216ndose puesto en la dieta pasada. Fue fuera de casa; yo, por)J
+70 331 :M
+.213 .021(consolarme, abro el arca, y como vi el pan, comenc\216lo de adorar, no osando recebillo. Cont\216los,)J
+70 349 :M
+.324 .032(si a dicha el lacerado se errara, y hall\216 su cuenta m\207s verdadera que yo quisiera. Lo m\207s que yo)J
+70 367 :M
+.028 .003(pude hacer fue dar en ellos mil besos y, lo m\207s delicado que yo pude, del partido part\222 un poco al)J
+70 385 :M
+-.011(pelo que \216l estaba; y con aqu\216l pas\216 aquel d\222a, no tan alegre como el pasado.)A
+98 421 :M
+1.918 .192(Mas como la hambre creciese, mayormente que ten\222a el est\227mago hecho a m\207s pan)J
+70 439 :M
+.069 .007(aquellos dos o tres d\222as ya dichos, mor\222a mala muerte; tanto, que otra cosa no hac\222a en vi\216ndome)J
+70 457 :M
+.662 .066(solo sino abrir y cerrar el arca y contemplar en aquella cara de Dios, que ans\222 dicen los ni\226os.)J
+70 475 :M
+-.005(Mas el mesmo Dios, que socorre a los afligidos, vi\216ndome en tal estrecho, trujo a mi memoria un)A
+70 493 :M
+-.012(peque\226o remedio; que, considerando entre m\222, dije:)A
+98 529 :M
+1.145 .114(\307Este arquet\227n es viejo y grande y roto por algunas partes, aunque peque\226os agujeros.)J
+70 547 :M
+.898 .09(Pu\216dese pensar que ratones, entrando en \216l, hacen da\226o a este pan. Sacarlo entero no es cosa)J
+70 565 :M
+-.01(conveniente, porque ver\207 la falta el que en tanta me hace vivir. Esto bien se sufre.\310)A
+98 601 :M
+.446 .045(Y comienzo a desmigajar el pan sobre unos no muy costosos manteles que all\222 estaban; y)J
+70 619 :M
+.423 .042(tomo uno y dejo otro, de manera que en cada cual de tres o cuatro desmigaj\216 su poco; despu\216s,)J
+70 637 :M
+.202 .02(como quien toma gragea, lo com\222, y algo me consol\216. Mas \216l, como viniese a comer y abriese el)J
+70 655 :M
+.14 .014(arca, vio el mal pesar, y sin dubda crey\227 ser ratones los que el da\226o hab\222an hecho, porque estaba)J
+70 673 :M
+.124 .012(muy al propio contrahecho de como ellos lo suelen hacer. Mir\227 todo el arcaz de un cabo a otro y)J
+70 691 :M
+-.012(viole ciertos agujeros por do sospechaba hab\222an entrado. Llam\227me, diciendo:)A
+98 727 :M
+-.006(\307\301L\207zaro! \301Mira, mira qu\216 persecuci\227n ha venido aquesta noche por nuestro pan!\310)A
+98 763 :M
+-.011(Yo h\222ceme muy maravillado, pregunt\207ndole qu\216 ser\222a.)A
+endp
+%%Page: 18 18
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 18 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(17)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+-.003(\307\301Qu\216 ha de ser! -dijo \216l-. Ratones, que no dejan cosa a vida.\310)A
+98 133 :M
+.385 .038(Pus\222monos a comer, y quiso Dios que aun en esto me fue bien, que me cupo m\207s pan que)J
+70 151 :M
+-.008(la laceria que me sol\222a dar, porque ray\227 con un cuchillo todo lo que pens\227 ser ratonado, diciendo:)A
+98 187 :M
+-.023(\307C\227mete eso, que el rat\227n cosa limpia es.\310)A
+98 223 :M
+.735 .073(Y as\222 aquel d\222a, a\226adiendo la raci\227n del trabajo de mis manos, o de mis u\226as, por mejor)J
+70 241 :M
+.05 .005(decir, acabamos de comer, aunque yo nunca empezaba. Y luego me vino otro sobresalto, que fue)J
+70 259 :M
+.536 .054(verle andar sol\222cito, quitando clavos de las paredes y buscando tablillas, con las cuales clav\227 y)J
+70 277 :M
+-.014(cerr\227 todos los agujeros de la vieja arca.)A
+98 313 :M
+1.557 .156(\307\301Oh, Se\226or m\222o! -dije yo entonces-, \301a cu\207nta miseria y fortuna y desastres estamos)J
+70 331 :M
+-.008(puestos los nacidos, y cu\207n poco turan los placeres de esta nuestra trabajosa vida! Heme aqu\222 que)A
+70 349 :M
+1.142 .114(pensaba con este pobre y triste remedio remediar y pasar mi laceria, y estaba ya cuanto que)J
+70 367 :M
+.467 .047(alegre y de buena ventura; mas no quiso mi desdicha, despertando a este lacerado de mi amo y)J
+70 385 :M
+.964 .096(poni\216ndole m\207s diligencia de la que \216l de suyo se ten\222a \(pues los m\222seros por la mayor parte)J
+70 403 :M
+.093 .009(nunca de aquella carecen\), agora, cerrando los agujeros del arca, cierrase la puerta a mi consuelo)J
+70 421 :M
+-.01(y la abriese a mis trabajos.\310)A
+98 457 :M
+.2 .02(As\222 lamentaba yo, en tanto que mi sol\222cito carpintero con muchos clavos y tablillas dio fin)J
+70 475 :M
+.23 .023(a sus obras, diciendo: \307Agora, donos traidores ratones, convi\216neos mudar prop\227sito, que en esta)J
+70 493 :M
+-.041(casa mala medra ten\216is.\310)A
+98 529 :M
+1.151 .115(De que sali\227 de su casa, voy a ver la obra y hall\216 que no dej\227 en la triste y vieja arca)J
+70 547 :M
+.296 .03(agujero ni aun por d\227nde le pudiese entrar un moxquito. Abro con mi desaprovechada llave, sin)J
+70 565 :M
+.764 .076(esperanza de sacar provecho, y vi los dos o tres panes comenzados, los que mi amo crey\227 ser)J
+70 583 :M
+2.43 .243(ratonados, y dellos todav\222a saqu\216 alguna laceria, toc\207ndolos muy ligeramente, a uso de)J
+70 601 :M
+-.001(esgremidor diestro. Como la necesidad sea tan gran maestra, vi\216ndome con tanta, siempre, noche)A
+70 619 :M
+1.167 .117(y d\222a, estaba pensando la manera que tern\222a en sustentar el vivir; y pienso, para hallar estos)J
+70 637 :M
+1.118 .112(negros remedios, que me era luz la hambre, pues dicen que el ingenio con ella se avisa y al)J
+70 655 :M
+-.01(contrario con la hartura, y as\222 era por cierto en m\222.)A
+98 691 :M
+.225 .023(Pues estando una noche desvelado en este pensamiento, pensando como me podr\222a valer y)J
+70 709 :M
+1.063 .106(aprovecharme del arcaz, sent\222 que mi amo dorm\222a, porque lo mostraba con roncar y en unos)J
+70 727 :M
+.424 .042(resoplidos grandes que daba cuando estaba durmiendo. Levant\216me muy quedito y, habiendo en)J
+70 745 :M
+.074 .007(el d\222a pensado lo que hab\222a de hacer y dejado un cuchillo viejo que por all\222 andaba en parte do le)J
+70 763 :M
+1.182 .118(hallase, voyme al triste arcaz, y por do hab\222a mirado tener menos defensa le acomet\222 con el)J
+endp
+%%Page: 19 19
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 19 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(18)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.272 .027(cuchillo, que a manera de barreno d\216l us\216.Y como la antiqu\222sima arca, por ser de tantos a\226os, la)J
+70 97 :M
+-.012(hallase sin fuerza y coraz\227n, antes muy blanda y carcomida, luego se me rindi\227, y consinti\227 en su)A
+70 115 :M
+.271 .027(costado por mi remedio un buen agujero. Esto hecho, abro muy paso la llagada arca y, al tiento,)J
+70 133 :M
+.624 .062(del pan que hall\216 partido hice seg\234n deyuso est\207 escrito. Y con aquello alg\234n tanto consolado,)J
+70 151 :M
+.523 .052(tornando a cerrar, me volv\222 a mis pajas, en las cuales repos\216 y dorm\222 un poco, lo cual yo hac\222a)J
+70 169 :M
+.299 .03(mal, y ech\207balo al no comer; y ans\222 ser\222a, porque cierto en aquel tiempo no me deb\222an de quitar)J
+70 187 :M
+-.015(el sue\226o los cuidados del rey de Francia.)A
+98 223 :M
+.426 .043(Otro d\222a fue por el se\226or mi amo visto el da\226o as\222 del pan como del agujero que yo hab\222a)J
+70 241 :M
+-.01(hecho, y comenz\227 a dar a los diablos los ratones y decir:)A
+98 277 :M
+-.006(\307\300Qu\216 diremos a esto? \301Nunca haber sentido ratones en esta casa sino agora!\310)A
+98 313 :M
+.149 .015(Y sin dubda deb\222a de decir verdad; porque si casa hab\222a de haber en el reino justamente de)J
+70 331 :M
+1.277 .128(ellos privilegiada, aqu\216lla de raz\227n hab\222a de ser, porque no suelen morar donde no hay qu\216)J
+70 349 :M
+.754 .075(comer. Torna a buscar clavos por la casa y por las paredes y tablillas a atap\207rselos. Venida la)J
+70 367 :M
+1.536 .154(noche y su reposo, luego era yo puesto en pie con mi aparejo, y cuantos \216l tapaba de d\222a,)J
+70 385 :M
+-.005(destapaba yo de noche. En tal manera fue, y tal priesa nos dimos, que sin dubda por esto se debi\227)A
+70 403 :M
+.362 .036(decir: \307Donde una puerta se cierra, otra se abre.\310 Finalmente, parec\222amos tener a destajo la tela)J
+70 421 :M
+.127 .013(de Pen\216lope, pues cuanto \216l tej\222a de d\222a, romp\222a yo de noche; ca en pocos d\222as y noches pusimos)J
+70 439 :M
+.351 .035(la pobre despensa de tal forma, que quien quisiera propiamente della hablar, m\207s corazas viejas)J
+70 457 :M
+-.006(de otro tiempo que no arcaz la llamara, seg\234n la clavaz\227n y tachuelas sobre s\222 ten\222a.)A
+98 493 :M
+-.005(De que vio no le aprovechar nada su remedio, dijo:)A
+98 529 :M
+.07 .007(\307Este arcaz est\207 tan maltratado y es de madera tan vieja y flaca, que no habr\207 rat\227n a quien)J
+70 547 :M
+.722 .072(se defienda; y va ya tal que, si andamos m\207s con \216l, nos dejar\207 sin guarda; y aun lo peor, que)J
+70 565 :M
+.64 .064(aunque hace poca, todav\222a har\207 falta faltando, y me pondr\207 en costa de tres o cuatro reales. El)J
+70 583 :M
+1.379 .138(mejor remedio que hallo, pues el de hasta aqu\222 no aprovecha, armar\216 por de dentro a estos)J
+70 601 :M
+-.057(ratopes malditos.\310)A
+98 637 :M
+1.51 .151(Luego busc\227 prestada una ratonera, y con cortezas de queso que a los vecinos ped\222a,)J
+70 655 :M
+1.35 .135(contino el gato estaba armado dentro del arca, lo cual era para m\222 singular auxilio; porque,)J
+70 673 :M
+.876 .088(puesto caso que yo no hab\222a menester muchas salsas para comer, todav\222a me holgaba con las)J
+70 691 :M
+-.005(cortezas del queso que de la ratonera sacaba, y sin esto no perdonaba el ratonar del bodigo.)A
+98 727 :M
+.11 .011(Como hallase el pan ratonado y el queso comido y no cayese el rat\227n que lo com\222a, d\207base)J
+70 745 :M
+.444 .044(al diablo, preguntaba a los vecinos qu\216 podr\222a ser comer el queso y sacarlo de la ratonera, y no)J
+70 763 :M
+.345 .035(caer ni quedar dentro el rat\227n, y hallar ca\222da la trampilla del gato. Acordaron los vecinos no ser)J
+endp
+%%Page: 20 20
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 20 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(19)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+1.02 .102(el rat\227n el que este da\226o hac\222a, porque no fuera menos de haber ca\222do alguna vez. D\222jole un)J
+70 97 :M
+-.053(vecino:)A
+98 133 :M
+.358 .036(\307En vuestra casa yo me acuerdo que sol\222a andar una culebra, y \216sta debe ser sin dubda. Y)J
+70 151 :M
+1.456 .146(lleva raz\227n que, como es larga, tiene lugar de tomar el cebo; y aunque la coja la trampilla)J
+70 169 :M
+-.004(encima, como no entre toda dentro, t\227rnase a salir.\310)A
+98 205 :M
+.117 .012(Cuadr\227 a todos lo que aqu\216l dijo, y alter\227 mucho a mi amo; y dende en adelante no dorm\222a)J
+70 223 :M
+1.352 .135(tan a sue\226o suelto, que cualquier gusano de la madera que de noche sonase, pensaba ser la)J
+70 241 :M
+-.014(culebra que le ro\222a el arca. Luego era puesto en pie, y con un garrote que a la cabacera, desde que)A
+70 259 :M
+.365 .036(aquello le dijeron, pon\222a, daba en la pecadora del arca grandes garrotazos, pensando espantar la)J
+70 277 :M
+.185 .018(culebra. A los vecinos despertaba con el estruendo que hac\222a, y a m\222 no me dejaba dormir. \352base)J
+70 295 :M
+.344 .034(a mis pajas y trastorn\207balas, y a m\222 con ellas, pensando que se iba para m\222 y se envolv\222a en mis)J
+70 313 :M
+.184 .018(pajas o en mi sayo, porque le dec\222an que de noche acaec\222a a estos animales, buscando calor, irse)J
+70 331 :M
+.134 .013(a las cunas donde est\207n criaturas y aun mordellas y hacerles peligrar. Yo las m\207s veces hac\222a del)J
+70 349 :M
+-.027(dormido, y en las ma\226as dec\222ame \216l:)A
+98 385 :M
+.058 .006(\307Esta noche, mozo, \300no sentiste nada? Pues tras la culebra anduve, y aun pienso se ha de ir)J
+70 403 :M
+-.011(para ti a la cama, que son muy fr\222as y buscan calor.\310)A
+98 439 :M
+-.003(\307Plega a Dios que no me muerda -dec\222a yo-, que harto miedo le tengo.\310)A
+98 475 :M
+-.005(De esta manera andaba tan elevado y levantado del sue\226o, que, mi fe, la culebra \(o culebro,)A
+70 493 :M
+.605 .06(por mejor decir\) no osaba roer de noche ni levantarse al arca; mas de d\222a, mientra estaba en la)J
+70 511 :M
+1.019 .102(iglesia o por el lugar, hac\222a mis saltos: los cuales da\226os viendo \216l y el poco remedio que les)J
+70 529 :M
+-.017(pod\222a poner, andaba de noche, como digo, hecho trasgo.)A
+98 565 :M
+.632 .063(Yo hube miedo que con aquellas diligencias no me topase con la llave que debajo de las)J
+70 583 :M
+.567 .057(pajas ten\222a, y pareci\227me lo m\207s seguro metella de noche en la boca. Porque ya, desde que viv\222)J
+70 601 :M
+.08 .008(con el ciego, la ten\222a tan hecha bolsa que me acaeci\227 tener en ella doce o quince maraved\222s, todo)J
+70 619 :M
+.468 .047(en medias blancas, sin que me estorbasen el comer; porque de otra manera no era se\226or de una)J
+70 637 :M
+1.343 .134(blanca que el maldito ciego no cayese con ella, no dejando costura ni remiendo que no me)J
+70 655 :M
+.006 .001(buscaba muy a menudo. Pues ans\222, como digo, met\222a cada noche la llave en la boca, y dorm\222a sin)J
+70 673 :M
+.078 .008(recelo que el brujo de mi amo cayese con ella; mas cuando la desdicha ha de venir, por dem\207s es)J
+70 691 :M
+-.031(diligencia.)A
+98 727 :M
+.08 .008(Quisieron mis hados, o por mejor decir mis pecados, que una noche que estaba durmiendo,)J
+70 745 :M
+.858 .086(la llave se me puso en la boca, que abierta deb\222a tener, de tal manera y postura, que el aire y)J
+70 763 :M
+.821 .082(resoplo que yo durmiendo echaba sal\222a por lo hueco de la llave, que de ca\226uto era, y silbaba,)J
+endp
+%%Page: 21 21
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 21 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(20)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.226 .023(seg\234n mi desastre quiso, muy recio, de tal manera que el sobresaltado de mi amo lo oy\227 y crey\227)J
+70 97 :M
+-.014(sin duda ser el silbo de la culebra; y cierto lo deb\222a parecer.)A
+98 133 :M
+.077 .008(Levant\227se muy paso con su garrote en la mano, y al tiento y sonido de la culebra se lleg\227 a)J
+70 151 :M
+.512 .051(m\222 con mucha quietud, por no ser sentido de la culebra; y como cerca se vio, pens\227 que all\222 en)J
+70 169 :M
+.442 .044(las pajas do yo estaba echado, al calor m\222o se hab\222a venido. Levantando bien el palo, pensando)J
+70 187 :M
+.465 .046(tenerla debajo y darle tal garrotazo que la matase, con toda su fuerza me descarg\227 en la cabeza)J
+70 205 :M
+-.003(un tan gran golpe, que sin ning\234n sentido y muy mal descalabrado me dej\227.)A
+98 241 :M
+.217 .022(Como sinti\227 que me hab\222a dado, seg\234n yo deb\222a hacer gran sentimiento con el fiero golpe,)J
+70 259 :M
+2.722 .272(contaba \216l que se hab\222a llegado a m\222 y d\207ndome grandes voces, llam\207ndome, procur\227)J
+70 277 :M
+.033 .003(recordarme. Mas como me tocase con las manos, tent\227 la mucha sangre que se me iba, y conoci\227)J
+70 295 :M
+1.278 .128(el da\226o que me hab\222a hecho, y con mucha priesa fue a buscar lumbre. Y llegando con ella,)J
+70 313 :M
+.191 .019(hall\227me quejando, todav\222a con mi llave en la boca, que nunca la desampar\216, la mitad fuera, bien)J
+70 331 :M
+-.003(de aquella manera que deb\222a estar al tiempo que silbaba con ella.)A
+98 367 :M
+.92 .092(Espantado el matador de culebras qu\216 podr\222a ser aquella llave, mir\227la, sac\207ndomela del)J
+70 385 :M
+.041 .004(todo de la boca, y vio lo que era, porque en las guardas nada de la suya diferenciaba. Fue luego a)J
+70 403 :M
+.347 .035(proballa, y con ella prob\227 el maleficio. Debi\227 de decir el cruel cazador: \307El rat\227n y culebra que)J
+70 421 :M
+-.017(me daban guerra y me com\222an mi hacienda he hallado.\310)A
+98 457 :M
+.692 .069(De lo que sucedi\227 en aquellos tres d\222as siguientes ninguna fe dar\216, porque los tuve en el)J
+70 475 :M
+.465 .047(vientre de la ballena; mas de c\227mo esto que he contado o\222, despu\216s que en m\222 torn\216, decir a mi)J
+70 493 :M
+-.016(amo, el cual a cuantos all\222 ven\222an lo contaba por extenso.)A
+98 529 :M
+1.155 .116(A cabo de tres d\222as yo torn\216 en mi sentido y vine echado en mis pajas, la cabeza toda)J
+70 547 :M
+-.011(emplastada y llena de aceites y ung\237entos y, espantado, dije: \307\300Qu\216 es esto?\310)A
+98 583 :M
+-.009(Respondi\227me el cruel sacerdote:)A
+98 619 :M
+-.013(\307A fe, que los ratones y culebras que me destru\222an ya los he cazado.\310)A
+98 655 :M
+-.004(Y mir\216 por m\222, y vime tan maltratado que luego sospech\216 mi mal.)A
+98 691 :M
+-.013(A esta hora entr\227 una vieja que ensalmaba, y los vecinos, y comi\216nzanme a quitar trapos de)A
+70 709 :M
+.674 .067(la cabeza y curar el garrotazo. Y como me hallaron vuelto en mi sentido, holg\207ronse mucho y)J
+70 727 :M
+-.046(dijeron:)A
+98 763 :M
+-.003(\307Pues ha tornado en su acuerdo, placer\207 a Dios no ser\207 nada.\310)A
+endp
+%%Page: 22 22
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 22 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(21)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+.455 .046(Ah\222 tornaron de nuevo a contar mis cuitas y a re\222rlas, y yo, pecador, a llorarlas. Con todo)J
+70 115 :M
+.008 .001(esto, di\216ronme de comer, que estaba transido de hambre, y apenas me pudieron remediar. Y ans\222,)J
+70 133 :M
+.311 .031(de poco en poco, a los quince d\222as me levant\216 y estuve sin peligro, mas no sin hambre, y medio)J
+70 151 :M
+-.248(sano.)A
+98 187 :M
+-.002(Luego otro d\222a que fui levantado, el se\226or mi amo me tom\227 por la mano y sac\227me la puerta)A
+70 205 :M
+-.007(fuera y, puesto en la calle, d\222jome:)A
+98 241 :M
+.491 .049(L\207zaro, de hoy m\207s eres tuyo y no m\222o. Busca amo y vete con Dios, que yo no quiero en)J
+70 259 :M
+-.003(mi compa\226\222a tan diligente servidor. No es posible sino que hayas sido mozo de ciego.\310)A
+98 295 :M
+.092 .009(Y santigu\207ndose de m\222 como si yo estuviera endemoniado, t\227rnase a meter en casa y cierra)J
+70 313 :M
+-.072(su puerta.)A
+endp
+%%Page: 23 23
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 23 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(22)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.043(Tratado Tercero)A
+70 169 :M
+-.013(C\227mo L\207zaro se asent\227 con un escudero, y de lo que le acaeci\227 con \216l)A
+98 241 :M
+.609 .061(Desta manera me fue forzado sacar fuerzas de flaqueza y, poco a poco, con ayuda de las)J
+70 259 :M
+.206 .021(buenas gentes di comigo en esta insigne ciudad de Toledo, adonde con la merced de Dios dende)J
+70 277 :M
+.458 .046(a quince d\222as se me cerr\227 la herida; y mientras estaba malo, siempre me daban alguna limosna,)J
+70 295 :M
+-.013(mas despu\216s que estuve sano, todos me dec\222an:)A
+98 331 :M
+-.013(\307T\234, bellaco y gallofero eres. Busca, busca un amo a quien sirvas.\310)A
+98 367 :M
+.046 .005(\307\300Y ad\227nde se hallar\207 \216se -dec\222a yo entre m\222- si Dios agora de nuevo, como cri\227 el mundo,)J
+70 385 :M
+-.08(no le criase?)A
+98 421 :M
+1.667 .167(Andando as\222 discurriendo de puerta en puerta, con harto poco remedio, porque ya la)J
+70 439 :M
+1.526 .153(caridad se subi\227 al cielo, top\227me Dios con un escudero que iba por la calle con razonable)J
+70 457 :M
+-.007(vestido, bien peinado, su paso y comp\207s en orden. Mir\227me, y yo a \216l, y d\222jome:)A
+98 493 :M
+-.041(\307Mochacho, \300buscas amo?\310)A
+98 529 :M
+-.028(Yo le dije: \307S\222, se\226or.\310)A
+98 565 :M
+.177 .018(\307Pues vente tras m\222 -me respondi\227- que Dios te ha hecho merced en topar comigo. Alguna)J
+70 583 :M
+-.036(buena oraci\227n rezaste hoy.\310)A
+98 619 :M
+.018 .002(Y segu\222le, dando gracias a Dios por lo que le o\222, y tambi\216n que me parec\222a, seg\234n su h\207bito)J
+70 637 :M
+-.006(y continente, ser el que yo hab\222a menester.)A
+98 673 :M
+.305 .03(Era de ma\226ana cuando este mi tercero amo top\216, y llev\227me tras s\222 gran parte de la ciudad.)J
+70 691 :M
+.58 .058(Pas\207bamos por las plazas do se vend\222a pan y otras provisiones. Yo pensaba y aun deseaba que)J
+70 709 :M
+-.008(all\222 me quer\222a cargar de lo que se vend\222a, porque \216sta era propria hora cuando se suele proveer de)A
+70 727 :M
+.582 .058(lo necesario; mas muy a tendido paso pasaba por estas cosas. \307Por ventura no lo vee aqu\222 a su)J
+70 745 :M
+-.003(contento -dec\222a yo- y querr\207 que lo compremos en otro cabo.\310)A
+endp
+%%Page: 24 24
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 24 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(23)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+.501 .05(Desta manera anduvimos hasta que dio las once. Entonces se entr\227 en la iglesia mayor, y)J
+70 97 :M
+1.283 .128(yo tras \216l, y muy devotamente le vi o\222r misa y los otros oficios divinos, hasta que todo fue)J
+70 115 :M
+-.01(acabado y la gente ida. Entonces salimos de la iglesia.)A
+98 151 :M
+.085 .008(A buen paso tendido comenzamos a ir por una calle abajo. Yo iba el m\207s alegre del mundo)J
+70 169 :M
+.247 .025(en ver que no nos hab\222amos ocupado en buscar de comer. Bien consider\216 que deb\222a ser hombre,)J
+70 187 :M
+1.043 .104(mi nuevo amo, que se prove\222a en junto, y que ya la comida estar\222a a punto tal y como yo la)J
+70 205 :M
+-.008(deseaba y aun la hab\222a menester.)A
+98 241 :M
+.316 .032(En este tiempo dio el reloj la una despu\216s de mediod\222a, y llegamos a una casa ante la cual)J
+70 259 :M
+.598 .06(mi amo se par\227, y yo con \216l; y derribando el cabo de la capa sobre el lado izquierdo, sac\227 una)J
+70 277 :M
+.066 .007(llave de la manga y abri\227 su puerta y entramos en casa; la cual ten\222a la entrada obscura y l\227brega)J
+70 295 :M
+.287 .029(de tal manera que parece que pon\222a temor a los que en ella entraban, aunque dentro della estaba)J
+70 313 :M
+-.007(un patio peque\226o y razonables c\207maras.)A
+98 349 :M
+1.628 .163(Desque fuimos entrados, quita de sobre s\222 su capa y, preguntando si ten\222a las manos)J
+70 367 :M
+.169 .017(limpias, la sacudimos y doblamos, y muy limpiamente soplando un poyo que all\222 estaba, la puso)J
+70 385 :M
+.582 .058(en \216l. Y hecho esto, sent\227se cabo della, pregunt\207ndome muy por extenso de d\227nde era y c\227mo)J
+70 403 :M
+.388 .039(hab\222a venido a aquella ciudad; y yo le di m\207s larga cuenta que quisiera, porque me parec\222a m\207s)J
+70 421 :M
+.19 .019(conveniente hora de mandar poner la mesa y escudillar la olla que de lo que me ped\222a. Con todo)J
+70 439 :M
+.703 .07(eso, yo le satisfice de mi persona lo mejor que mentir supe, diciendo mis bienes y callando lo)J
+70 457 :M
+-.019(dem\207s, porque me parec\222a no ser para en c\207mara.)A
+98 493 :M
+.5 .05(Esto hecho, estuvo ans\222 un poco, y yo luego vi mala se\226al, por ser ya casi las dos y no le)J
+70 511 :M
+.857 .086(ver m\207s aliento de comer que a un muerto. Despu\216s desto, consideraba aquel tener cerrada la)J
+70 529 :M
+.169 .017(puerta con llave ni sentir arriba ni abajo pasos de viva persona por la casa. Todo lo que yo hab\222a)J
+70 547 :M
+.463 .046(visto eran paredes, sin ver en ella silleta, ni tajo, ni banco, ni mesa, ni aun tal arcaz como el de)J
+70 565 :M
+-.007(marras: finalmente, ella parec\222a casa encantada. Estando as\222, d\222jome:)A
+98 601 :M
+-.027(\307T\234, mozo, \300has comido?\310)A
+98 637 :M
+-.001(\307No, se\226or -dije yo-, que a\234n no eran dadas las ocho cuando con vuestra merced encontr\216.\310)A
+98 673 :M
+.066 .007(\307Pues, aunque de ma\226ana, yo hab\222a almorzado, y cuando ans\222 como algo, h\207gote saber que)J
+70 691 :M
+-.01(hasta la noche me estoy ans\222. Por eso, p\207sate como pudieres, que despu\216s cenaremos.)A
+98 727 :M
+.344 .034(Vuestra merced crea, cuando esto le o\222, que estuve en poco de caer de mi estado, no tanto)J
+70 745 :M
+.181 .018(de hambre como por conocer de todo en todo la fortuna serme adversa. All\222 se me representaron)J
+70 763 :M
+.187 .019(de nuevo mis fatigas, y torn\216 a llorar mis trabajos; all\222 se me vino a la memoria la consideraci\227n)J
+endp
+%%Page: 25 25
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 25 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(24)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+1.375 .137(que hac\222a cuando me pensaba ir del cl\216rigo, diciendo que aunque aqu\216l era desventurado y)J
+70 97 :M
+.786 .079(m\222sero, por ventura topar\222a con otro peor: finalmente, all\222 llor\216 mi trabajosa vida pasada y mi)J
+70 115 :M
+-.003(cercana muerte venidera. Y con todo, disimulando lo mejor que pude:)A
+98 151 :M
+.816 .082(\307Se\226or, mozo soy que no me fatigo mucho por comer, bendito Dios. Deso me podr\216 yo)J
+70 169 :M
+.527 .053(alabar entre todos mis iguales por de mejor garganta, y ans\222 fui yo loado della fasta hoy d\222a de)J
+70 187 :M
+-.037(los amos que yo he tenido.\310)A
+98 223 :M
+.384 .038(\307Virtud es \216sa -dijo \216l- y por eso te querr\216 yo m\207s, porque el hartar es de los puercos y el)J
+70 241 :M
+-.005(comer regladamente es de los hombres de bien.\310)A
+98 277 :M
+.036 .004(\307\301Bien te he entendido! -dije yo entre m\222- \301maldita tanta medicina y bondad como aquestos)J
+70 295 :M
+-.006(mis amos que yo hallo hallan en la hambre!\310)A
+98 331 :M
+-.006(P\234seme a un cabo del portal y saqu\216 unos pedazos de pan del seno, que me hab\222an quedado)A
+70 349 :M
+-.014(de los de por Dios. \203l, que vio esto, d\222jome:)A
+98 385 :M
+-.034(\307Ven ac\207, mozo. \300Qu\216 comes?\310)A
+98 421 :M
+.091 .009(Yo llegu\216me a \216l y mostr\216le el pan. Tom\227me \216l un pedazo, de tres que eran el mejor y m\207s)J
+70 439 :M
+-.019(grande, y d\222jome:)A
+98 475 :M
+-.024(\307Por mi vida, que parece \216ste buen pan.\310)A
+98 511 :M
+-.005(\307\301Y c\227mo! \300Agora -dije yo-, se\226or, es bueno?\310)A
+98 547 :M
+-.003(\307S\222, a fe -dijo \216l-. \300Ad\227nde lo hubiste? \300Si es amasado de manos limpias?\310)A
+98 583 :M
+-.014(\307No s\216 yo eso -le dije-; mas a m\222 no me pone asco el sabor dello.\310)A
+98 619 :M
+-.022(\307As\222 plega a Dios\310 -dijo el pobre de mi amo.)A
+98 655 :M
+-.01(Y llev\207ndolo a la boca, comenz\227 a dar en \216l tan fieros bocados como yo en lo otro.)A
+98 691 :M
+-.016(\307Sabros\222simo pan est\207 -dijo-, por Dios.\310)A
+98 727 :M
+.127 .013(Y como le sent\222 de qu\216 pie coxqueaba, dime priesa, porque le vi en disposici\227n, si acababa)J
+70 745 :M
+.351 .035(antes que yo, se comedir\222a a ayudarme a lo que me quedase; y con esto acabamos casi a una. Y)J
+70 763 :M
+.797 .08(mi amo comenz\227 a sacudir con las manos unas pocas de migajas, y bien menudas, que en los)J
+endp
+%%Page: 26 26
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 26 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(25)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.248 .025(pechos se le hab\222an quedado, y entr\227 en una camareta que all\222 estaba, y sac\227 un jarro desbocado)J
+70 97 :M
+-.006(y no muy nuevo, y desque hubo bebido convid\227me con \216l. Yo, por hacer del continente, dije:)A
+98 133 :M
+-.031(\307Se\226or, no bebo vino.\310)A
+98 169 :M
+-.013(\307Agua es, -me respondi\227-. Bien puedes beber.\310)A
+98 205 :M
+.046 .005(Entonces tom\216 el jarro y beb\222, no mucho, porque de sed no era mi congoja. Ans\222 estuvimos)J
+70 223 :M
+.579 .058(hasta la noche, hablando en cosas que me preguntaba, a las cuales yo le respond\222 lo mejor que)J
+70 241 :M
+-.006(supe. En este tiempo meti\227me en la c\207mara donde estaba el jarro de que bebimos, y d\222jome:)A
+98 277 :M
+1.331 .133(\307Mozo, p\207rate all\222 y ver\207s, c\227mo hacemos esta cama, para que la sepas hacer de aqu\222)J
+70 295 :M
+-.108(adelante.\310)A
+98 331 :M
+.418 .042(P\234seme de un cabo y \216l del otro y hecimos la negra cama, en la cual no hab\222a mucho que)J
+70 349 :M
+.651 .065(hacer, porque ella ten\222a sobre unos bancos un ca\226izo, sobre el cual estaba tendida la ropa que,)J
+70 367 :M
+.532 .053(por no estar muy continuada a lavarse, no parec\222a colch\227n, aunque serv\222a d\216l, con harta menos)J
+70 385 :M
+.899 .09(lana que era menester. Aqu\216l tendimos, haciendo cuenta de ablandalle, lo cual era imposible,)J
+70 403 :M
+.285 .028(porque de lo duro mal se puede hacer blando. El diablo del enjalma maldita la cosa ten\222a dentro)J
+70 421 :M
+.158 .016(de s\222, que puesto sobre el ca\226izo todas las ca\226as se se\226alaban y parec\222an a lo proprio entrecuesto)J
+70 439 :M
+.339 .034(de flaqu\222simo puerco; y sobre aquel hambriento colch\227n un alfamar del mesmo jaez, del cual el)J
+70 457 :M
+-.008(color yo no pude alcanzar. Hecha la cama y la noche venida, d\222jome:)A
+98 493 :M
+.553 .055(\307L\207zaro, ya es tarde, y de aqu\222 a la plaza hay gran trecho. Tambi\216n en esta ciudad andan)J
+70 511 :M
+.167 .017(muchos ladrones que siendo de noche capean. Pasemos como podamos y ma\226ana, venido el d\222a,)J
+70 529 :M
+.467 .047(Dios har\207 merced; porque yo, por estar solo, no estoy prove\222do, antes he comido estos d\222as por)J
+70 547 :M
+-.017(all\207 fuera, mas agora hacerlo hemos de otra manera.\310)A
+98 583 :M
+.359 .036(\307Se\226or, de m\222 -dije yo- ninguna pena tenga vuestra merced, que s\216 pasar una noche y aun)J
+70 601 :M
+-.02(m\207s, si es menester, sin comer.\310)A
+98 637 :M
+.006 .001(\307Vivir\207s m\207s y m\207s sano -me respondi\227-, porque como dec\222amos hoy, no hay tal cosa en el)J
+70 655 :M
+-.024(mundo para vivir mucho que comer poco.\310)A
+98 691 :M
+.278 .028(\307Si por esa v\222a es -dije entre m\222-, nunca yo morir\216, que siempre he guardado esa regla por)J
+70 709 :M
+-.01(fuerza, y aun espero en mi desdicha tenella toda mi vida.\310)A
+98 745 :M
+-.009(Y acost\227se en la cama, poniendo por cabecera las calzas y el jub\227n, y mand\227me echar a sus)A
+70 763 :M
+.114 .011(pies, lo cual yo hice; mas \301maldito el sue\226o que yo dorm\222! Porque las ca\226as y mis salidos huesos)J
+endp
+%%Page: 27 27
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 27 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(26)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.033 .003(en toda la noche dejaron de rifar y encenderse, que con mis trabajos, males y hambre, pienso que)J
+70 97 :M
+.946 .095(en mi cuerpo no hab\222a libra de carne; y tambi\216n, como aquel d\222a no hab\222a comido casi nada,)J
+70 115 :M
+.998 .1(rabiaba de hambre, la cual con el sue\226o no ten\222a amistad. Mald\222jeme mil veces -\301Dios me lo)J
+70 133 :M
+.44 .044(perdone!- y a mi ruin fortuna, all\222 lo m\207s de la noche, y \(lo peor\) no os\207ndome revolver por no)J
+70 151 :M
+-.019(despertalle, ped\222 a Dios muchas veces la muerte.)A
+98 187 :M
+-.002(La ma\226ana venida, levant\207monos, y comienza a limpiar y sacudir sus calzas y jub\227n y sayo)A
+70 205 :M
+.593 .059(y capa -y yo que le serv\222a de pelillo- y v\222stese muy a su placer de espacio. Ech\216le aguamanos,)J
+70 223 :M
+-.003(pein\227se y puso su espada en el talabarte y, al tiempo que la pon\222a, d\222jome:)A
+98 259 :M
+.03 .003(\307\301Oh, si supieses, mozo, qu\216 pieza es \216sta! No hay marco de oro en el mundo por que yo la)J
+70 277 :M
+-.005(diese. Mas ans\222 ninguna de cuantas Antonio hizo, no acert\227 a ponelle los aceros tan prestos como)A
+70 295 :M
+-.065(\216sta los tiene.\310)A
+98 331 :M
+-.004(Y sac\227la de la vaina y tent\227la con los dedos, diciendo:)A
+98 367 :M
+-.009(\307\300Vesla aqu\222? Yo me obligo con ella cercenar un copo de lana.\310)A
+98 403 :M
+-.035(Y yo dije entre m\222:)A
+98 439 :M
+-.003(\307Y yo con mis dientes, aunque no son de acero, un pan de cuatro libras.\310)A
+98 475 :M
+1.245 .125(Torn\227la a meter y ci\226\227sela y un sartal de cuentas gruesas del talabarte, y con un paso)J
+70 493 :M
+.193 .019(sosegado y el cuerpo derecho, haciendo con \216l y con la cabeza muy gentiles meneos, echando el)J
+70 511 :M
+-.005(cabo de la capa sobre el hombro y a veces so el brazo, y poniendo la mano derecha en el costado,)A
+70 529 :M
+-.033(sali\227 por la puerta, diciendo:)A
+98 565 :M
+.318 .032(\307L\207zaro, mira por la casa en tanto que voy a o\222r misa, y haz la cama, y ve por la vasija de)J
+70 583 :M
+.59 .059(agua al r\222o, que aqu\222 bajo est\207, y cierra la puerta con llave, no nos hurten algo, y ponla aqu\222 al)J
+70 601 :M
+-.011(quicio, porque si yo viniere en tanto pueda entrar.\310)A
+98 637 :M
+1.961 .196(Y s\234bese por la calle arriba con tan gentil semblante y continente, que quien no le)J
+70 655 :M
+.827 .083(conociera pensara ser muy cercano pariente al conde de Arcos, o a lo menos camarero que le)J
+70 673 :M
+-.045(daba de vestir.)A
+98 709 :M
+1.855 .186(\307\301Bendito se\207is vos, Se\226or -qued\216 yo diciendo-, que dais la enfermedad y pon\216is el)J
+70 727 :M
+.244 .024(remedio! \300Qui\216n encontrara a aquel mi se\226or que no piense, seg\234n el contento de s\222 lleva, haber)J
+70 745 :M
+.057 .006(anoche bien cenado y dormido en buena cama, y aun agora es de ma\226ana, no le cuenten por muy)J
+70 763 :M
+.076 .008(bien almorzado? \301Grandes secretos son, Se\226or, los que vos hac\216is y las gentes ignoran! \300A qui\216n)J
+endp
+%%Page: 28 28
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 28 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(27)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.214 .021(no enga\226ara aquella buena disposici\227n y razonable capa y sayo y qui\216n pensara que aquel gentil)J
+70 97 :M
+.86 .086(hombre se pas\227 ayer todo el d\222a sin comer, con aquel mendrugo de pan que su criado L\207zaro)J
+70 115 :M
+.511 .051(trujo un d\222a y una noche en el arca de su seno, do no se le pod\222a pegar mucha limpieza, y hoy,)J
+70 133 :M
+.043 .004(lav\207ndose las manos y cara, a falta de pa\226o de manos, se hac\222a servir de la halda del sayo? Nadie)J
+70 151 :M
+1.624 .162(por cierto lo sospechara. \301Oh Se\226or, y cu\207ntos de aqu\216stos deb\216is vos tener por el mundo)J
+70 169 :M
+-.002(derramados, que padecen por la negra que llaman honra lo que por vos no sufrir\222an!\310)A
+98 205 :M
+-.005(Ans\222 estaba yo a la puerta, mirando y considerando estas cosas y otras muchas, hasta que el)A
+70 223 :M
+.189 .019(se\226or mi amo traspuso la larga y angosta calle, y como lo vi trasponer, torn\216me a entrar en casa,)J
+70 241 :M
+.334 .033(y en un credo la anduve toda, alto y bajo, sin hacer represa ni hallar en qu\216. Hago la negra dura)J
+70 259 :M
+.381 .038(cama y tomo el jarro y doy comigo en el r\222o, donde en una huerta vi a mi amo en gran recuesta)J
+70 277 :M
+.859 .086(con dos rebozadas mujeres, al parecer de las que en aquel lugar no hacen falta, antes muchas)J
+70 295 :M
+1.061 .106(tienen por estilo de irse a las ma\226anicas del verano a refrescar y almorzar sin llevar qu\216 por)J
+70 313 :M
+-.008(aquellas frescas riberas, con confianza que no ha de faltar qui\216n se lo d\216, seg\234n las tienen puestas)A
+70 331 :M
+-.02(en esta costumbre aquellos hidalgos del lugar.)A
+98 367 :M
+.361 .036(Y como digo, \216l estaba entre ellas hecho un Mac\222as, dici\216ndoles m\207s dulzuras que Ovidio)J
+70 385 :M
+1.493 .149(escribi\227. Pero como sintieron d\216l que estaba bien enternecido, no se les hizo de verg\237enza)J
+70 403 :M
+.813 .081(pedirle de almorzar con el acostumbrado pago. \203l, sinti\216ndose tan fr\222o de bolsa cuanto estaba)J
+70 421 :M
+.095 .009(caliente del est\227mago, tom\227le tal calofr\222o que le rob\227 la color del gesto, y comenz\227 a turbarse en)J
+70 439 :M
+.006 .001(la pl\207tica y a poner excusas no validas. Ellas, que deb\222an ser bien institu\222das, como le sintieron la)J
+70 457 :M
+-.015(enfermedad, dej\207ronle para el que era.)A
+98 493 :M
+1.298 .13(Yo, que estaba comiendo ciertos tronchos de berzas, con los cuales me desayun\216, con)J
+70 511 :M
+1.049 .105(mucha diligencia, como mozo nuevo, sin ser visto de mi amo, torn\216 a casa, de la cual pens\216)J
+70 529 :M
+.452 .045(barrer alguna parte, que era bien menester, mas no hall\216 con qu\216. P\234seme a pensar qu\216 har\222a, y)J
+70 547 :M
+.682 .068(pareci\227me esperar a mi amo hasta que el d\222a demediase y si viniese y por ventura trajese algo)J
+70 565 :M
+-.005(que comi\216semos; mas en vano fue mi experiencia.)A
+98 601 :M
+.928 .093(Desque vi ser las dos y no ven\222a y la hambre me aquejaba, cierro mi puerta y pongo la)J
+70 619 :M
+.006 .001(llave do mand\227, y t\227rnome a mi menester. Con baja y enferma voz e inclinadas mis manos en los)J
+70 637 :M
+.176 .018(senos, puesto Dios ante mis ojos y la lengua en su nombre, comienzo a pedir pan por las puertas)J
+70 655 :M
+.638 .064(y casas m\207s grandes que me parec\222a. Mas como yo este oficio le hobiese mamado en la leche,)J
+70 673 :M
+.033 .003(quiero decir que con el gran maestro el ciego lo aprend\222, tan suficiente disc\222pulo sal\222 que, aunque)J
+70 691 :M
+.129 .013(en este pueblo no hab\222a caridad ni el a\226o fuese muy abundante, tan buena ma\226a me di que, antes)J
+70 709 :M
+.018 .002(que el reloj diese las cuatro, ya yo ten\222a otras tantas libras de pan ensiladas en el cuerpo y m\207s de)J
+70 727 :M
+.885 .088(otras dos en las mangas y senos. Volv\222me a la posada y al pasar por la triper\222a ped\222 a una de)J
+70 745 :M
+-.002(aquellas mujeres, y diome un pedazo de u\226a de vaca con otras pocas de tripas cocidas.)A
+endp
+%%Page: 29 29
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 29 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(28)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+.09 .009(Cuando llegu\216 a casa, ya el bueno de mi amo estaba en ella, doblada su capa y puesta en el)J
+70 97 :M
+.811 .081(poyo, y \216l pase\207ndose por el patio. Como entro, v\222nose para m\222. Pens\216 que me quer\222a re\226ir la)J
+70 115 :M
+-.003(tardanza, mas mejor lo hizo Dios. Pregunt\227me d\227 ven\222a. Yo le dije:)A
+98 151 :M
+.694 .069(\307Se\226or, hasta que dio las dos estuve aqu\222, y de que vi que V.M. no ven\222a, fuime por esa)J
+70 169 :M
+-.007(ciudad a encomendarme a las buenas gentes, y hanme dado esto que veis.\310)A
+98 205 :M
+1.19 .119(Mostr\216le el pan y las tripas que en un cabo de la halda tra\222a, a lo cual \216l mostr\227 buen)J
+70 223 :M
+-.041(semblante y dijo:)A
+98 259 :M
+1.472 .147(\307Pues esperado te he a comer, y de que vi que no veniste, com\222. Mas t\234 haces como)J
+70 277 :M
+.206 .021(hombre de bien en eso, que m\207s vale pedillo por Dios que no hurtallo, y ans\222 \203l me ayude como)J
+70 295 :M
+.532 .053(ello me parece bien. Y solamente te encomiendo no sepan que vives comigo, por lo que toca a)J
+70 313 :M
+.847 .085(mi honra, aunque bien creo que ser\207 secreto, seg\234n lo poco que en este pueblo soy conocido.)J
+70 331 :M
+-.008(\301Nunca a \216l yo hubiera de venir!\310)A
+98 367 :M
+1.763 .176(\307De eso pierda, se\226or, cuidado -le dije yo-, que maldito aqu\216l que ninguno tiene de)J
+70 385 :M
+-.027(pedirme esa cuenta ni yo de dalla.\310)A
+98 421 :M
+1.391 .139(\307Agora pues, come, pecador. Que, si a Dios place, presto nos veremos sin necesidad;)J
+70 439 :M
+.124 .012(aunque te digo que despu\216s que en esta casa entr\216, nunca bien me ha ido. Debe ser de mal suelo,)J
+70 457 :M
+-.015(que hay casas desdichadas y de mal pie, que a los que viven en ellas pegan la desdicha. \203sta debe)A
+70 475 :M
+.097 .01(de ser sin dubda de ellas; mas yo te prometo, acabado el mes, no quede en ella aunque me la den)J
+70 493 :M
+-.123(por m\222a.\310)A
+98 529 :M
+1.904 .19(Sent\216me al cabo del poyo y, porque no me tuviese por glot\227n, call\216 la merienda; y)J
+70 547 :M
+.035 .004(comienzo a cenar y morder en mis tripas y pan, y disimuladamente miraba al desventurado se\226or)J
+70 565 :M
+.157 .016(m\222o, que no part\222a sus ojos de mis faldas, que aquella saz\227n serv\222an de plato. Tanta l\207stima haya)J
+70 583 :M
+.25 .025(Dios de m\222 como yo hab\222a d\216l, porque sent\222 lo que sent\222a, y muchas veces hab\222a por ello pasado)J
+70 601 :M
+.635 .063(y pasaba cada d\222a. Pensaba si ser\222a bien comedirme a convidalle; mas por me haber dicho que)J
+70 619 :M
+.023 .002(hab\222a comido, tem\222a me no aceptar\222a el convite. Finalmente, yo deseaba aquel pecador ayudase a)J
+70 637 :M
+.821 .082(su trabajo del m\222o, y se desayunase como el d\222a antes hizo, pues hab\222a mejor aparejo, por ser)J
+70 655 :M
+-.018(mejor la vianda y menos mi hambre.)A
+98 691 :M
+.21 .021(Quiso Dios cumplir mi deseo, y aun pienso que el suyo, porque, como comenc\216 a comer y)J
+70 709 :M
+-.021(\216l se andaba paseando lleg\227se a m\222 y d\222jome:)A
+98 745 :M
+.661 .066(\307D\222gote, L\207zaro, que tienes en comer la mejor gracia que en mi vida vi a hombre, y que)J
+70 763 :M
+-.008(nadie te lo ver\207 hacer que no le pongas gana aunque no la tenga.\310)A
+endp
+%%Page: 30 30
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 30 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(29)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+-.002(\307La muy buena que t\234 tienes -dije yo entre m\222- te hace parecer la m\222a hermosa.\310)A
+98 133 :M
+-.002(Con todo, pareci\227me ayudarle, pues se ayudaba y me abr\222a camino para ello, y d\222jele:)A
+98 169 :M
+-.005(\307Se\226or, el buen aparejo hace buen art\222fice. Este pan est\207 sabros\222simo y esta u\226a de vaca tan)A
+70 187 :M
+-.013(bien cocida y sazonada, que no habr\207 a quien no convide con su sabor.\310)A
+98 223 :M
+-.055(\307\300U\226a de vaca es?\310)A
+98 259 :M
+-.09(\307Si, se\226or.\310)A
+98 295 :M
+-.003(\307D\222gote que es el mejor bocado del mundo, que no hay fais\207n que ans\222 me sepa.\310)A
+98 331 :M
+-.022(\307Pues pruebe, se\226or, y ver\207 qu\216 tal est\207.\310)A
+98 367 :M
+.355 .035(P\227ngole en las u\226as la otra y tres o cuatro raciones de pan de lo m\207s blanco y asent\227seme)J
+70 385 :M
+.246 .025(al lado, y comienza a comer como aquel que lo hab\222a gana, royendo cada huesecillo de aqu\216llos)J
+70 403 :M
+-.018(mejor que un galgo suyo lo hiciera.)A
+98 439 :M
+-.012(\307Con almodrote -dec\222a- es \216ste singular manjar.\310)A
+98 475 :M
+-.02(\307Con mejor salsa lo comes t\234\310, respond\222 yo paso.)A
+98 511 :M
+-.004(\307Por Dios, que me ha sabido como si hoy no hobiera comido bocado.\310)A
+98 547 :M
+-.004(\307\301Ans\222 me vengan los buenos a\226os como es ello!\310 -dije yo entre m\222.)A
+98 583 :M
+.252 .025(Pidi\227me el jarro del agua y d\222selo como lo hab\222a tra\222do. Es se\226al que, pues no le faltaba el)J
+70 601 :M
+1.072 .107(agua, que no le hab\222a a mi amo sobrado la comida. Bebimos, y muy contentos nos fuimos a)J
+70 619 :M
+-.01(dormir como la noche pasada.)A
+98 655 :M
+.217 .022(Y por evitar prolijidad, desta manera estuvimos ocho o diez d\222as, y\216ndose el pecador en la)J
+70 673 :M
+1.28 .128(ma\226ana con aquel contento y paso contado a papar aire por las calles, teniendo en el pobre)J
+70 691 :M
+.831 .083(L\207zaro una cabeza de lobo. Contemplaba yo muchas veces mi desastre, que escapando de los)J
+70 709 :M
+1.314 .131(amos ruines que hab\222a tenido y buscando mejor\222a, viniese a topar con quien no solo no me)J
+70 727 :M
+-.021(mantuviese, mas a quien yo hab\222a de mantener.)A
+98 763 :M
+.614 .061(Con todo, le quer\222a bien, con ver que no ten\222a ni pod\222a m\207s, y antes le hab\222a l\207stima que)J
+endp
+%%Page: 31 31
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 31 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(30)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.043 .004(enemistad; y muchas veces, por llevar a la posada con que \216l lo pasase, yo lo pasaba mal. Porque)J
+70 97 :M
+.116 .012(una ma\226ana, levant\207ndose el triste en camisa, subi\227 a lo alto de la casa a hacer sus menesteres, y)J
+70 115 :M
+.698 .07(en tanto yo, por salir de sospecha, desenvolv\222le el jub\227n y las calzas que a la cabecera dej\227, y)J
+70 133 :M
+.496 .05(hall\216 una bolsilla de terciopelo raso hecho cien dobleces y sin maldita la blanca ni se\226al que la)J
+70 151 :M
+-.024(hobiese tenido mucho tiempo.)A
+98 187 :M
+2.193 .219(\307\203ste -dec\222a yo- es pobre y nadie da lo que no tiene. Mas el avariento ciego y el)J
+70 205 :M
+.007 .001(malaventurado mezquino cl\216rigo que, con d\207rselo Dios a ambos, al uno de mano besada y al otro)J
+70 223 :M
+2.28 .228(de lengua suelta, me mataban de hambre, aqu\216llos es justo desamar y aqu\216ste de haber)J
+70 241 :M
+-.035(mancilla.\310)A
+98 277 :M
+.056 .006(Dios es testigo que hoy d\222a, cuando topo con alguno de su h\207bito, con aquel paso y pompa,)J
+70 295 :M
+.238 .024(le he l\207stima, con pensar si padece lo que aqu\216l le vi sufrir; al cual con toda su pobreza holgar\222a)J
+70 313 :M
+.785 .078(de servir m\207s que a los otros por lo que he dicho. S\227lo ten\222a d\216l un poco de descontento: que)J
+70 331 :M
+.605 .06(quisiera yo me no tuviera tanta presunci\227n, mas que abajara un poco su fantas\222a con lo mucho)J
+70 349 :M
+.259 .026(que sub\222a su necesidad. Mas, seg\234n me parece, es regla ya entre ellos usada y guardada; aunque)J
+70 367 :M
+.596 .06(no haya cornado de trueco, ha de andar el birrete en su lugar. El Se\226or lo remedie, que ya con)J
+70 385 :M
+-.045(este mal han de morir.)A
+98 421 :M
+.818 .082(Pues, estando yo en tal estado, pasando la vida que digo, quiso mi mala fortuna, que de)J
+70 439 :M
+.224 .022(perseguirme no era satisfecha, que en aquella trabajada y vergonzosa vivienda no durase. Y fue,)J
+70 457 :M
+.362 .036(como el a\226o en esta tierra fuese est\216ril de pan, acordaron el Ayuntamiento que todos los pobres)J
+70 475 :M
+.546 .055(estranjeros se fuesen de la ciudad, con preg\227n que el que de all\222 adelante topasen fuese punido)J
+70 493 :M
+1.281 .128(con azotes. Y as\222, ejecutando la ley, desde a cuatro d\222as que el preg\227n se dio, vi llevar una)J
+70 511 :M
+.059 .006(procesi\227n de pobres azotando por las Cuatro Calles, lo cual me puso tan gran espanto, que nunca)J
+70 529 :M
+-.01(os\216 desmandarme a demandar.)A
+98 565 :M
+.97 .097(Aqu\222 viera, quien vello pudiera, la abstinencia de mi casa y la tristeza y silencio de los)J
+70 583 :M
+.522 .052(moradores, tanto que nos acaeci\227 estar dos o tres d\222as sin comer bocado, ni hablaba palabra. A)J
+70 601 :M
+.336 .034(m\222 di\216ronme la vida unas mujercillas hilanderas de algod\227n, que hac\222an bonetes y viv\222an par de)J
+70 619 :M
+.84 .084(nosotros, con las cuales yo tuve vecindad y conocimiento; que de la laceria que les tra\222an me)J
+70 637 :M
+-.016(daban alguna cosilla, con la cual muy pasado me pasaba.)A
+98 673 :M
+.217 .022(Y no ten\222a tanta l\207stima de m\222 como del lastimado de mi amo, que en ocho d\222as maldito el)J
+70 691 :M
+.691 .069(bocado que comi\227. A lo menos, en casa bien lo estuvimos sin comer. No s\216 yo c\227mo o d\227nde)J
+70 709 :M
+.197 .02(andaba y qu\216 com\222a. \301Y velle venir a mediod\222a la calle abajo con estirado cuerpo, m\207s largo que)J
+70 727 :M
+.314 .031(galgo de buena casta! Y por lo que toca a su negra que dicen honra, tomaba una paja de las que)J
+70 745 :M
+.835 .084(aun asaz no hab\222a en casa, y sal\222a a la puerta escarbando los dientes que nada entre s\222 ten\222an,)J
+70 763 :M
+-.013(quej\207ndose todav\222a de aquel mal solar diciendo:)A
+endp
+%%Page: 32 32
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 32 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(31)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+.879 .088(\307Malo est\207 de ver, que la desdicha desta vivienda lo hace. Como ves, es l\227brega, triste,)J
+70 115 :M
+.93 .093(obscura. Mientras aqu\222 estuvi\216remos, hemos de padecer. Ya deseo que se acabe este mes por)J
+70 133 :M
+-.081(salir della.\310)A
+98 169 :M
+1.156 .116(Pues, estando en esta afligida y hambrienta persecuci\227n un d\222a, no s\216 por cual dicha o)J
+70 187 :M
+.28 .028(ventura, en el pobre poder de mi amo entr\227 un real, con el cual \216l vino a casa tan ufano como si)J
+70 205 :M
+-.01(tuviera el tesoro de Venecia; y con gesto muy alegre y risue\226o me lo dio, diciendo:)A
+98 241 :M
+1.015 .102(\307Toma, L\207zaro, que Dios ya va abriendo su mano. Ve a la plaza y merca pan y vino y)J
+70 259 :M
+.521 .052(carne: \301quebremos el ojo al diablo! Y m\207s, te hago saber, porque te huelgues, que he alquilado)J
+70 277 :M
+.504 .05(otra casa, y en \216sta desastrada no hemos de estar m\207s de en cumplimiento el mes. \301Maldita sea)J
+70 295 :M
+.029 .003(ella y el que en ella puso la primera teja, que con mal en ella entr\216! Por Nuestro Se\226or, cuanto ha)J
+70 313 :M
+.2 .02(que en ella vivo, gota de vino ni bocado de carne no he comido, ni he habido descanso ninguno;)J
+70 331 :M
+-.002(mas \301tal vista tiene y tal obscuridad y tristeza! Ve y ven presto, y comamos hoy como condes.\310)A
+98 367 :M
+.317 .032(Tomo mi real y jarro y a los pies d\207ndoles priesa, comienzo a subir mi calle encaminando)J
+70 385 :M
+.159 .016(mis pasos para la plaza muy contento y alegre. Mas \300qu\216 me aprovecha si est\207 constituido en mi)J
+70 403 :M
+1.021 .102(triste fortuna que ning\234n gozo me venga sin zozobra? Y ans\222 fue \216ste; porque yendo la calle)J
+70 421 :M
+1.565 .156(arriba, echando mi cuenta en lo que le emplear\222a que fuese mejor y m\207s provechosamente)J
+70 439 :M
+.171 .017(gastado, dando infinitas gracias a Dios que a mi amo hab\222a hecho con dinero, a deshora me vino)J
+70 457 :M
+.964 .096(al encuentro un muerto, que por la calle abajo muchos cl\216rigos y gente en unas andas tra\222an.)J
+70 475 :M
+.251 .025(Arrim\216me a la pared por darles lugar, y desque el cuerpo pas\227, ven\222an luego a par del lecho una)J
+70 493 :M
+.831 .083(que deb\222a ser mujer del difunto, cargada de luto, y con ella otras muchas mujeres; la cual iba)J
+70 511 :M
+-.017(llorando a grandes voces y diciendo:)A
+98 547 :M
+1.324 .132(\307Marido y se\226or m\222o, \300ad\227nde os me llevan? \301A la casa triste y desdichada, a la casa)J
+70 565 :M
+-.016(l\227brega y obscura, a la casa donde nunca comen ni beben!\310)A
+98 601 :M
+-.01(Yo que aquello o\222, junt\227seme el cielo con la tierra, y dije:)A
+98 637 :M
+-.004(\307\301Oh desdichado de m\222! Para mi casa llevan este muerto.\310)A
+98 673 :M
+.745 .075(Dejo el camino que llevaba y hend\222 por medio de la gente, y vuelvo por la calle abajo a)J
+70 691 :M
+.129 .013(todo el m\207s correr que pude para mi casa, y entrando en ella cierro a grande priesa, invocando el)J
+70 709 :M
+.314 .031(auxilio y favor de mi amo, abraz\207ndome d\216l, que me venga a ayudar y a defender la entrada. El)J
+70 727 :M
+-.015(cual algo alterado, pensando que fuese otra cosa, me dijo:)A
+98 763 :M
+-.001(\307\300Qu\216 es eso, mozo? \300Qu\216 voces das? \300Qu\216 has? \300Por qu\216 cierras la puerta con tal furia?\310)A
+endp
+%%Page: 33 33
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 33 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(32)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+-.003(\307\301Oh se\226or -dije yo- acuda aqu\222, que nos traen ac\207 un muerto!\310)A
+98 133 :M
+-.011(\307\300C\227mo as\222?\310, respondi\227 \216l.)A
+98 169 :M
+1.143 .114(\307Aqu\222 arriba lo encontr\216, y ven\222a diciendo su mujer: \325Marido y se\226or mio, \300ad\227nde os)J
+70 187 :M
+.275 .028(llevan? \301A la casa l\227brega y obscura, a la casa triste y desdichada, a la casa donde nunca comen)J
+70 205 :M
+-.017(ni beben! Ac\207, se\226or, nos le traen.\310)A
+98 241 :M
+.776 .078(Y ciertamente, cuando mi amo esto oy\227, aunque no ten\222a por qu\216 estar muy risue\226o, rio)J
+70 259 :M
+.053 .005(tanto que muy gran rato estuvo sin poder hablar. En este tiempo ten\222a ya yo echada la aldaba a la)J
+70 277 :M
+.064 .006(puerta y puesto el hombro en ella por m\207s defensa. Pas\227 la gente con su muerto, y yo todav\222a me)J
+70 295 :M
+.155 .016(recelaba que nos le hab\222an de meter en casa; y despu\216s fue ya m\207s harto de re\222r que de comer, el)J
+70 313 :M
+-.029(bueno de mi amo d\222jome:)A
+98 349 :M
+1.566 .157(\307Verdad es, L\207zaro; seg\234n la viuda lo va diciendo, t\234 tuviste raz\227n de pensar lo que)J
+70 367 :M
+-.005(pensaste. Mas, pues Dios lo ha hecho mejor y pasan adelante, abre, abre, y ve por de comer.\310)A
+98 403 :M
+-.017(\307Dej\207los, se\226or, acaben de pasar la calle\310, dije yo.)A
+98 439 :M
+.499 .05(Al fin vino mi amo a la puerta de la calle, y \207brela esforz\207ndome, que bien era menester,)J
+70 457 :M
+1.278 .128(seg\234n el miedo y alteraci\227n, y me torno a encaminar. Mas aunque comimos bien aquel d\222a,)J
+70 475 :M
+.834 .083(maldito el gusto yo tomaba en ello, ni en aquellos tres d\222as torn\216 en mi color; y mi amo muy)J
+70 493 :M
+-.013(risue\226o todas las veces que se le acordaba aquella mi cosideraci\227n.)A
+98 529 :M
+.345 .035(De esta manera estuve con mi tercero y pobre amo, que fue este escudero, algunos d\222as, y)J
+70 547 :M
+.171 .017(en todos deseando saber la intenci\227n de su venida y estada en esta tierra; porque desde el primer)J
+70 565 :M
+1.114 .111(d\222a que con \216l asent\216, le conoc\222 ser estranjero, por el poco conocimiento y trato que con los)J
+70 583 :M
+1.319 .132(naturales della ten\222a. Al fin se cumpli\227 mi deseo y supe lo que deseaba; porque un d\222a que)J
+70 601 :M
+.403 .04(hab\222amos comido razonablemente y estaba algo contento, cont\227me su hacienda y d\222jome ser de)J
+70 619 :M
+.107 .011(Castilla la Vieja, y que hab\222a dejado su tierra no m\207s de por no quitar el bonete a un caballero su)J
+70 637 :M
+-.164(vecino.)A
+98 673 :M
+.365 .036(\307Se\226or -dije yo- si \216l era lo que dec\222s y ten\222a m\207s que vos, \300no err\207bades en no quit\207rselo)J
+70 691 :M
+-.019(primero, pues dec\222s que \216l tambi\216n os lo quitaba?\310)A
+98 727 :M
+.43 .043(\307S\222 es, y s\222 tiene, y tambi\216n me lo quitaba \216l a m\222; mas, de cuantas veces yo se le quitaba)J
+70 745 :M
+-.003(primero, no fuera malo comedirse \216l alguna y ganarme por la mano.\310)A
+endp
+%%Page: 34 34
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 34 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(33)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+.007 .001(\307Par\216ceme, se\226or -le dije yo- que en eso no mirara, mayormente con mis mayores que yo y)J
+70 97 :M
+-.065(que tienen m\207s.\310)A
+98 133 :M
+.738 .074(\307Eres mochacho -me respondi\227- y no sientes las cosas de la honra, en que el d\222a de hoy)J
+70 151 :M
+1.441 .144(est\207 todo el caudal de los hombres de bien. Pues te hago saber que yo soy, como vees, un)J
+70 169 :M
+.57 .057(escudero; mas \301v\227tote a Dios!, si al conde topo en la calle y no me quita muy bien quitado del)J
+70 187 :M
+.03 .003(todo el bonete, que otra vez que venga, me sepa yo entrar en una casa, fingiendo yo en ella alg\234n)J
+70 205 :M
+.066 .007(negocio, o atravesar otra calle, si la hay, antes que llegue a m\222, por no quit\207rselo. Que un hidalgo)J
+70 223 :M
+.092 .009(no debe a otro que a Dios y al rey nada, ni es justo, siendo hombre de bien, se descuide un punto)J
+70 241 :M
+.251 .025(de tener en mucho su persona. Acu\216rdome que un d\222a deshonr\216 en mi tierra a un oficial, y quise)J
+70 259 :M
+.3 .03(ponerle las manos, porque cada vez que le topaba me dec\222a: \324Mantenga Dios a vuestra merced.\325)J
+70 277 :M
+-.002(\324Vos, don villano ruin -le dije yo- \300por qu\216 no sois bien criado? \300Mant\216ngaos Dios, me hab\216is de)A
+70 295 :M
+1.481 .148(decir, como si fuese quienquiera?\325 De all\222 adelante, de aqu\222 acull\207, me quitaba el bonete y)J
+70 313 :M
+-.05(hablaba como deb\222a.\310)A
+98 349 :M
+.886 .089(\307\300Y no es buena manera de saludar un hombre a otro -dije yo- decirle que le mantenga)J
+70 367 :M
+-.198(Dios?\310)A
+98 403 :M
+.606 .061(\307\301Mira mucho de enhoramala! -dijo \216l-. A los hombres de poca arte dicen eso, mas a los)J
+70 421 :M
+.006 .001(m\207s altos, como yo, no les han de hablar menos de: \324Beso las manos de vuestra merced\325, o por lo)J
+70 439 :M
+.212 .021(menos: \324B\216soos, se\226or, las manos\325, si el que me habla es caballero. Y ans\222, de aqu\216l de mi tierra)J
+70 457 :M
+.467 .047(que me atestaba de mantenimiento nunca m\207s le quise sufrir, ni sufrir\222a ni sufrir\216 a hombre del)J
+70 475 :M
+-.005(mundo, del rey abajo, que \324Mant\216ngaos Dios\325 me diga.\310)A
+98 511 :M
+.061 .006(\307Pecador de m\222 -dije yo-, por eso tiene tan poco cuidado de mantenerte, pues no sufres que)J
+70 529 :M
+-.05(nadie se lo ruegue.\310)A
+98 565 :M
+-.009(\307Mayormente -dijo- que no soy tan pobre que no tengo en mi tierra un solar de casas, que a)A
+70 583 :M
+1.16 .116(estar ellas en pie y bien labradas, diez y seis leguas de donde nac\222, en aquella Costanilla de)J
+70 601 :M
+.657 .066(Valladolid, valdr\222an m\207s de doscientas veces mil maraved\222s, seg\234n se podr\222an hacer grandes y)J
+70 619 :M
+2.002 .2(buenas; y tengo un palomar que, a no estar derribado como est\207, dar\222a cada a\226o m\207s de)J
+70 637 :M
+.2 .02(doscientos palominos; y otras cosas que me callo, que dej\216 por lo que tocaba a mi honra. Y vine)J
+70 655 :M
+1.447 .145(a esta ciudad, pensando que hallar\222a un buen asiento, mas no me ha sucedido como pens\216.)J
+70 673 :M
+.119 .012(Can\227nigos y se\226ores de la iglesia, muchos hallo, mas es gente tan limitada que no los sacaran de)J
+70 691 :M
+.643 .064(su paso todo el mundo. Caballeros de media talla, tambi\216n me ruegan; mas servir con \216stos es)J
+70 709 :M
+.836 .084(gran trabajo, porque de hombre os hab\216is de convertir en malilla y si no. \324And\207 con Dios\325 os)J
+70 727 :M
+.409 .041(dicen. Y las m\207s veces son los pagamentos a largos plazos, y las m\207s y las m\207s ciertas, comido)J
+70 745 :M
+-.012(por servido. Ya cuando quieren reformar conciencia y satisfaceros vuestros sudores, sois librados)A
+70 763 :M
+.651 .065(en la rec\207mara, en un sudado jub\227n o ra\222da capa o sayo. Ya cuando asienta un hombre con un)J
+endp
+%%Page: 35 35
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 35 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(34)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.573 .057(se\226or de t\222tulo, todav\222a pasa su laceria. \300Pues por ventura no hay en mi habilidad para servir y)J
+70 97 :M
+.765 .076(contestar a \216stos? Por Dios, si con \216l topase, muy gran su privado pienso que fuese y que mil)J
+70 115 :M
+2.15 .215(servicios le hiciese, porque yo sabr\222a mentille tan bien como otro, y agradalle a las mil)J
+70 133 :M
+.078 .008(maravillas: re\222lle ya mucho sus donaires y costumbres, aunque no fuesen las mejores del mundo;)J
+70 151 :M
+1.414 .141(nunca decirle cosa con que le pesase, aunque mucho le cumpliese; ser muy diligente en su)J
+70 169 :M
+.868 .087(persona en dicho y hecho; no me matar por no hacer bien las cosas que \216l no hab\222a de ver, y)J
+70 187 :M
+-.008(ponerme a re\226ir, donde lo oyese, con la gente de servicio, porque pareciese tener gran cuidado de)A
+70 205 :M
+.053 .005(lo que a \216l tocaba; si ri\226ese con alg\234n su criado, dar unos puntillos agudos para la encender la ira)J
+70 223 :M
+.031 .003(y que pareciesen en favor del culpado; decirle bien de lo que bien le estuviese y, por el contrario,)J
+70 241 :M
+.832 .083(ser malicioso, mofador, malsinar a los de casa y a los de fuera; pesquisar y procurar de saber)J
+70 259 :M
+1.48 .148(vidas ajenas para cont\207rselas; y otras muchas galas de esta calidad que hoy d\222a se usan en)J
+70 277 :M
+.133 .013(palacio. Y a los se\226ores d\216l parecen bien, y no quieren ver en sus casas hombres virtuosos, antes)J
+70 295 :M
+.373 .037(los aborrecen y tienen en poco y llaman necios y que no son personas de negocios ni con quien)J
+70 313 :M
+.162 .016(el se\226or se puede descuidar. Y con \216stos los astutos usan, como digo, el d\222a de hoy, de lo que yo)J
+70 331 :M
+-.005(usar\222a. Mas no quiere mi ventura que le halle.\310)A
+98 367 :M
+1.433 .143(Desta manera lamentaba tambi\216n su adversa fortuna mi amo, d\207ndome relaci\227n de su)J
+70 385 :M
+-.018(persona valerosa.)A
+98 421 :M
+1.104 .11(Pues, estando en esto, entr\227 por la puerta un hombre y una vieja. El hombre le pide el)J
+70 439 :M
+.149 .015(alquiler de la casa y la vieja el de la cama. Hacen cuenta, y de dos en dos meses le alcanzaron lo)J
+70 457 :M
+.814 .081(que \216l en un a\226o no alcanzara: pienso que fueron doce o trece reales. Y \216l les dio muy buena)J
+70 475 :M
+.731 .073(respuesta: que saldr\222a a la plaza a trocar una pieza de a dos, y que a la tarde volviese. Mas su)J
+70 493 :M
+.674 .067(salida fue sin vuelta. Por manera que a la tarde ellos volvieron, mas fue tarde. Yo les dije que)J
+70 511 :M
+.06 .006(a\234n no era venido. Venida la noche, y \216l no, yo hube miedo de quedar en casa solo, y fuime a las)J
+70 529 :M
+.529 .053(vecinas y cont\216les el caso, y all\222 dorm\222. Venida la ma\226ana, los acreedores vuelven y preguntan)J
+70 547 :M
+-.008(por el vecino, mas a estotra puerta. Las mujeres le responden: \307Veis aqu\222 su mozo y la llave de la)A
+70 565 :M
+-.14(puerta.\310)A
+98 601 :M
+1.257 .126(Ellos me pr\216guntaron por \216l y d\222jele que no sab\222a ad\227nde estaba y que tampoco hab\222a)J
+70 619 :M
+.487 .049(vuelto a casa desde que sali\227 a trocar la pieza, y que pensaba que de m\222 y de ellos se hab\222a ido)J
+70 637 :M
+.633 .063(con el trueco. De que esto me oyeron, van por un alguacil y un escribano. Y helos do vuelven)J
+70 655 :M
+.772 .077(luego con ellos, y toman la llave, y ll\207manme, y llaman testigos, y abren la puerta, y entran a)J
+70 673 :M
+1.295 .13(embargar la hacienda de mi amo hasta ser pagados de su deuda. Anduvieron toda la casa y)J
+70 691 :M
+-.004(hall\207ronla desembarazada, como he contado, y d\222cenme:)A
+98 727 :M
+-.01(\307\300Qu\216 es de la hacienda de tu amo, sus arcas y pa\226os de pared y alhajas de casa?\310)A
+98 763 :M
+-.023(\307No s\216 yo eso\310, le respond\222.)A
+endp
+%%Page: 36 36
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 36 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(35)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+-.002(\307Sin duda -dicen ellos- esta noche lo deben de haber alzado y llevado a alguna parte. Se\226or)A
+70 115 :M
+-.01(alguacil, prended a este mozo, que \216l sabe d\227nde est\207.\310)A
+98 151 :M
+-.003(En esto vino el alguacil, y ech\227me mano por el collar del jub\227n, diciendo:)A
+98 187 :M
+-.014(\307Mochacho, t\234 eres preso si no descubres los bienes deste tu amo.\310)A
+98 223 :M
+.289 .029(Yo, como en otra tal no me hubiese visto -porque asido del collar, s\222, hab\222a sido muchas e)J
+70 241 :M
+.324 .032(infinitas veces, mas era mansamente d\216l trabado, para que mostrase el camino al que no v\222a- yo)J
+70 259 :M
+-.003(hube mucho miedo, y llorando promet\222le de decir lo que preguntaban.)A
+98 295 :M
+-.008(\307Bien est\207 -dicen ellos-, pues di todo lo que sabes, y no hayas temor.\310)A
+98 331 :M
+-.006(Sent\227se el escribano en un poyo para escrebir el inventario, pregunt\207ndome qu\216 ten\222a.)A
+98 367 :M
+.744 .074(\307Se\226ores -dije yo-, lo que este mi amo tiene, seg\234n \216l me dijo, es un muy buen solar de)J
+70 385 :M
+-.021(casas y un palomar derribado.\310)A
+98 421 :M
+.498 .05(\307Bien est\207 -dicen ellos-. Por poco que eso valga, hay para nos entregar de la deuda. \300Y a)J
+70 439 :M
+-.011(qu\216 parte de la ciudad tiene eso?\310, me preguntaron.)A
+98 475 :M
+-.026(\307En su tierra\310, respond\222.)A
+98 511 :M
+-.011(\307Por Dios, que est\207 bueno el negocio -dijeron ellos-. \300Y ad\227nde es su tierra?\310)A
+98 547 :M
+-.017(\307De Castilla la Vieja me dijo \216l que era\310, le dije yo.)A
+98 583 :M
+-.005(Ri\216ronse mucho el alguacil y el escribano, diciendo:)A
+98 619 :M
+-.002(\307Bastante relaci\227n es \216sta para cobrar vuestra deuda, aunque mejor fuese.\310)A
+98 655 :M
+-.013(Las vecinas, que estaban presentes, dijeron:)A
+98 691 :M
+.629 .063(\307Se\226ores, \216ste es un ni\226o inocente, y ha pocos d\222as que est\207 con ese escudero, y no sabe)J
+70 709 :M
+.908 .091(d\216l m\207s que vuestras merecedes, sino cu\207nto el pecadorcico se llega aqu\222 a nuestra casa, y le)J
+70 727 :M
+-.01(damos de comer lo que podemos por amor de Dios, y a las noches se iba a dormir con \216l.\310)A
+98 763 :M
+.848 .085(Vista mi inocencia, dej\207ronme, d\207ndome por libre. Y el alguacil y el escribano piden al)J
+endp
+%%Page: 37 37
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 37 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(36)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.747 .075(hombre y a la mujer sus derechos, sobre lo cual tuvieron gran contienda y ruido, porque ellos)J
+70 97 :M
+.104 .01(alegaron no ser obligados a pagar, pues no hab\222a de qu\216 ni se hac\222a el embargo. Los otros dec\222an)J
+70 115 :M
+.993 .099(que hab\222an dejado de ir a otro negocio que les importaba m\207s por venir a aqu\216l. Finalmente,)J
+70 133 :M
+.915 .092(despu\216s de dadas muchas voces, al cabo carga un porquer\227n con el viejo alfamar de la vieja,)J
+70 151 :M
+.314 .031(aunque no iba muy cargado. All\207 van todos cinco dando voces. No s\216 en qu\216 par\227. Creo yo que)J
+70 169 :M
+.35 .035(el pecador alfamar pagara por todos, y bien se empleaba, pues el tiempo que hab\222a de reposar y)J
+70 187 :M
+-.01(descansar de los trabajos pasados, se andaba alquilando.)A
+98 223 :M
+.388 .039(As\222, como he contado, me dej\227 mi pobre tercero amo, do acab\216 de conocer mi ruin dicha,)J
+70 241 :M
+.559 .056(pues, se\226al\207ndose todo lo que podr\222a contra m\222, hac\222a mis negocios tan al rev\216s, que los amos,)J
+70 259 :M
+-.013(que suelen ser dejados de los mozos, en m\222 no fuese ans\222, mas que mi amo me dejase y huyese de)A
+70 277 :M
+-.334(m\222.)A
+endp
+%%Page: 38 38
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 38 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(37)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.074(Tratado Cuarto)A
+70 169 :M
+-.002(C\227mo L\207zaro se asent\227 con un fraile de la Merced, y de lo que le acaeci\227 con \216l)A
+98 241 :M
+-.005(Hube de buscar el cuarto, y \216ste fue un fraile de la Merced, que las mujercillas que digo me)A
+70 259 :M
+1.902 .19(encaminaron, al cual ellas le llamaban pariente: gran enemigo del coro y de comer en el)J
+70 277 :M
+-.016(convento, perdido por andar fuera, amic\222simo de negocios seglares y visitar, tanto que pienso que)A
+70 295 :M
+.363 .036(romp\222a \216l m\207s zapatos que todo el convento. \203ste me dio los primeros zapatos que romp\222 en mi)J
+70 313 :M
+.75 .075(vida, mas no me duraron ocho d\222as, ni yo pude con su trote durar m\207s. Y por esto y por otras)J
+70 331 :M
+-.032(cosillas que no digo, sal\222 d\216l.)A
+endp
+%%Page: 39 39
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 39 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(38)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.049(Tratado Quinto)A
+70 169 :M
+-.003(C\227mo L\207zaro se asent\227 con un buldero, y de las cosas que con \216l pas\227)A
+98 241 :M
+.194 .019(En el quinto por mi ventura di, que fue un buldero, el m\207s desenvuelto y desvengonzado y)J
+70 259 :M
+.692 .069(el mayor echador dellas que jam\207s yo vi ni ver espero ni pienso que nadie vio; porque ten\222a y)J
+70 277 :M
+-.019(buscaba modos y maneras y muy sotiles invenciones.)A
+98 313 :M
+-.005(En entrando en los lugares do hab\222an de presentar la bula, primero presentaba a los cl\216rigos)A
+70 331 :M
+.185 .018(o curas algunas cosillas, no tampoco de mucho valor ni substancia: una lechuga murciana, si era)J
+70 349 :M
+.4 .04(por el tiempo, un par de limas o naranjas, un melocot\227n, un par de duraznos, cada sendas peras)J
+70 367 :M
+.872 .087(verdiniales. Ans\222 procuraba tenerlos propicios porque favoreciesen su negocio y llamasen sus)J
+70 385 :M
+-.023(feligreses a tomar la bula.)A
+98 421 :M
+2.145 .214(Ofreci\216ndosele a \216l las gracias, inform\207base de la suficiencia dellos. Si dec\222an que)J
+70 439 :M
+.782 .078(entend\222an, no hablaba palabra en lat\222n por no dar tropez\227n; mas aprovech\207base de un gentil y)J
+70 457 :M
+.919 .092(bien cortado romance y desenvolt\222sima lengua. Y si sab\222a que los dichos cl\216rigos eran de los)J
+70 475 :M
+.574 .057(reverendos, digo que m\207s con dineros que con letras y con reverendas se ordena, hac\222ase entre)J
+70 493 :M
+-.005(ellos un Santo Tom\207s y hablaba dos horas en lat\222n: a lo menos, que lo parec\222a aunque no lo era.)A
+98 529 :M
+.829 .083(Cuando por bien no le tomaban las bulas, buscaba c\227mo por mal se las tomasen, y para)J
+70 547 :M
+.097 .01(aquello hac\222a molestias al pueblo e otras veces con ma\226osos artificios. Y porque todos los que le)J
+70 565 :M
+1.59 .159(ve\222a hacer ser\222a largo de contar, dir\216 uno muy sotil y donoso, con el cual probar\216 bien su)J
+70 583 :M
+-.088(suficiencia.)A
+98 619 :M
+2.462 .246(En un lugar de la Sagra de Toledo hab\222a predicado dos o tres d\222as, haciendo sus)J
+70 637 :M
+1.068 .107(acostumbradas diligencias, y no le hab\222an tomado bula, ni a mi ver ten\222an intenci\227n de se la)J
+70 655 :M
+-.005(tomar. Estaba dado al diablo con aquello y, pensando qu\216 hacer, se acord\227 de convidar al pueblo,)A
+70 673 :M
+-.006(para otro d\222a de ma\226ana despedir la bula.)A
+98 709 :M
+.677 .068(Y esa noche, despu\216s de cenar, pusi\216ronse a jugar la colaci\227n \216l y el alguacil, y sobre el)J
+70 727 :M
+.007 .001(juego vinieron a re\226ir y a haber malas palabras. \203l llam\227 al alguacil ladr\227n, y el otro a \216l falsario.)J
+70 745 :M
+.629 .063(Sobre esto, el se\226or comisario mi se\226or tom\227 un lanz\227n que en el portal do jugaban estaba. El)J
+70 763 :M
+.005 .001(aguacil puso mano a su espada, que en la cinta ten\222a. Al ruido y voces y que todos dimos, acuden)J
+endp
+%%Page: 40 40
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 40 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(39)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.373 .037(los hu\216spedes y vecinos y m\216tense en medio, y ellos muy enojados procur\207ndose desembarazar)J
+70 97 :M
+.587 .059(de los que en medio estaban, para se matar. Mas como la gente al gran ruido cargase y la casa)J
+70 115 :M
+2.469 .247(estuviese llena della, viendo que no pod\222an afrentarse con las armas, dec\222anse palabras)J
+70 133 :M
+.659 .066(injuriosas, entre las cuales el alguacil dijo a mi amo que era falsario y las bulas que predicaba)J
+70 151 :M
+-.019(que eran falsas.)A
+98 187 :M
+.762 .076(Finalmente, que los del pueblo, viendo que no bastaban a ponellos en paz, acordaron de)J
+70 205 :M
+.287 .029(llevar el alguacil de la posada a otra parte. Y as\222 qued\227 mi amo muy enojado; y despu\216s que los)J
+70 223 :M
+.372 .037(hu\216spedes y vecinos le hubieron rogado que perdiese el enojo y se fuese a dormir, se fue. Y as\222)J
+70 241 :M
+-.038(nos echamos todos.)A
+98 277 :M
+1.297 .13(La ma\226ana venida, mi amo se fue a la iglesia y mand\227 ta\226er a misa y al serm\227n para)J
+70 295 :M
+.469 .047(despedir la bula. Y el pueblo se junt\227, el cual andaba murmurando de las bulas, diciendo como)J
+70 313 :M
+.271 .027(eran falsas y que el mesmo alguacil ri\226endo lo hab\222a descubierto; de manera que tras que ten\222an)J
+70 331 :M
+-.015(mala gana de tomalla, con aquello de todo la aborrecieron.)A
+98 367 :M
+.242 .024(El se\226or comisario se subi\227 al p\234lpito y comienza su serm\227n, y a animar la gente a que no)J
+70 385 :M
+.321 .032(quedasen sin tanto bien e indulgencia como la santa bula tra\222a. Estando en lo mejor del serm\227n,)J
+70 403 :M
+.88 .088(entra por la puerta de la iglesia el alguacil y, desque hizo oraci\227n, levant\227se y con voz alta y)J
+70 421 :M
+-.025(pausada cuerdamente comenz\227 a decir:)A
+98 457 :M
+.007 .001(\307Buenos hombres, o\222dme una palabra, que despu\216s oir\216is a quien quisi\216redes. Yo vine aqu\222)J
+70 475 :M
+.592 .059(con este echacuervo que os predica, el cual enga\226\227 y dijo que le favoreciese en este negocio y)J
+70 493 :M
+1.48 .148(que partir\222amos la ganancia. Y agora, visto el da\226o que har\222a a mi conciencia y a vuestras)J
+70 511 :M
+.144 .014(haciendas, arrepentido de lo hecho, os declaro claramente que las bulas que predica son falsas, y)J
+70 529 :M
+.648 .065(que no le cre\207is ni las tom\216is, y que yo )J
+f2_12 sf
+.268(directe)A
+304 529 :M
+f0_12 sf
+.112 .011( ni )J
+f2_12 sf
+.094(indirecte)A
+364 529 :M
+f0_12 sf
+.736 .074( no soy parte en ellas, y que desde)J
+70 547 :M
+1.347 .135(agora dejo la vara y doy con ella en el suelo; y si alg\234n tiempo \216ste fuere castigado por la)J
+70 565 :M
+.486 .049(falsedad, que vosotros me se\207is testigos como yo no soy con \216l ni le doy a ello ayuda, antes os)J
+70 583 :M
+-.031(desenga\226o y declaro su maldad.\310)A
+98 619 :M
+2.135 .213(Y acab\227 su razonamiento. Algunos hombres honrados que all\222 estaban se quisieron)J
+70 637 :M
+.933 .093(levantar y echar el alguacil fuera de la iglesia, por evitar esc\207ndalo. Mas mi amo les fue a la)J
+70 655 :M
+.678 .068(mano y mand\227 a todos que so pena de excomuni\227n no le estorbasen, mas que le dejasen decir)J
+70 673 :M
+.734 .073(todo lo que quisiese. Y ans\222, \216l tambi\216n tuvo silencio, mientras el alguacil dijo todo lo que he)J
+70 691 :M
+-.132(dicho.)A
+98 727 :M
+-.01(Como call\227, mi amo le pregunt\227, si quer\222a decir m\207s, que lo dijese. El alguacil dijo:)A
+98 763 :M
+-.011(\307Harto hay m\207s que decir de vos y de vuestra falsedad, mas por agora basta.\310)A
+endp
+%%Page: 41 41
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 41 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(40)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+.994 .099(El se\226or comisario se hinc\227 de rodillas en el p\234lpito y, puestas las manos y mirando al)J
+70 115 :M
+-.041(cielo, dijo ans\222:)A
+98 151 :M
+.09 .009(\307Se\226or Dios, a quien ninguna cosa es escondida, antes todas manifiestas, y a quien nada es)J
+70 169 :M
+.018 .002(imposible, antes todo posible, t\234 sabes la verdad y cu\207n injustamente yo soy afrentado. En lo que)J
+70 187 :M
+.708 .071(a m\222 toca, yo lo perdono porque t\234, Se\226or, me perdones. No mires a aqu\216l que no sabe lo que)J
+70 205 :M
+.887 .089(hace ni dice; mas la injuria a ti hecha, te suplico, y por justicia te pido, no disimules; porque)J
+70 223 :M
+.295 .029(alguno que est\207 aqu\222, que por ventura pens\227 tomar aquesta santa bula, dando cr\216dito a las falsas)J
+70 241 :M
+.624 .062(palabras de aquel hombre, lo dejar\207 de hacer. Y pues es tanto perjuicio del pr\227jimo, te suplico)J
+70 259 :M
+.043 .004(yo, Se\226or, no lo disimules, mas luego muestra aqu\222 milagro, y sea desta manera: que si es verdad)J
+70 277 :M
+.823 .082(lo que aqu\216l dice y que traigo maldad y falsedad, este p\234lpito se hunda conmigo y meta siete)J
+70 295 :M
+.642 .064(estados debajo de tierra, do \216l ni yo jam\207s parezcamos. Y si es verdad lo que yo digo y aqu\216l,)J
+70 313 :M
+1.202 .12(persuadido del demonio, por quitar y privar a los que est\207n presentes de tan gran bien, dice)J
+70 331 :M
+-.004(maldad, tambi\216n sea castigado y de todos conocida su malicia.\310)A
+98 367 :M
+.403 .04(Apenas hab\222a acabado su oraci\227n el devoto se\226or m\222o, cuando el negro alguacil cae de su)J
+70 385 :M
+.763 .076(estado y da tan gran golpe en el suelo que la iglesia toda hizo resonar, y comenz\227 a bramar y)J
+70 403 :M
+.804 .08(echar espumajos por la boca y torcella, y hacer visajes con el gesto, dando de pie y de mano,)J
+70 421 :M
+1.176 .118(revolvi\216ndose por aquel suelo a una parte y a otra. El estruendo y voces de la gente era tan)J
+70 439 :M
+-.006(grande, que no se o\222an unos a otros. Algunos estaban espantados y temerosos. Unos dec\222an:)A
+98 475 :M
+-.021(\307El Se\226or le socorra y valga.\310)A
+98 511 :M
+-.198(Otros:)A
+98 547 :M
+-.01(\307Bien se le emplea, pues levantaba tan falso testimonio.\310)A
+98 583 :M
+.773 .077(Finalmente, algunos que all\222 estaban, y a mi parecer no sin harto temor, se llegaron y le)J
+70 601 :M
+.322 .032(trabaron de los brazos, con los cuales daba fuertes pu\226adas a los que cerca d\216l estaban. Otros le)J
+70 619 :M
+.629 .063(tiraban por las piernas y tuvieron reciamente, porque no hab\222a mula falsa en el mundo que tan)J
+70 637 :M
+.376 .038(recias coces tirase. Y as\222 le tuvieron un gran rato, porque m\207s de quince hombres estaban sobre)J
+70 655 :M
+-.008(\216l, y a todos daba las manos llenas, y si se descuidaban, en los hocicos.)A
+98 691 :M
+.325 .032(A todo esto, el se\226or mi amo estaba en el p\234lpito de rodillas, las manos y los ojos puestos)J
+70 709 :M
+-.008(en el cielo, transportado en la divina esencia, que el planto y ruido y voces que en la iglesia hab\222a)A
+70 727 :M
+-.004(no eran parte para apartalle de su divina contemplaci\227n.)A
+98 763 :M
+1.517 .152(Aquellos buenos hombres llegaron a \216l, y dando voces le despertaron y le suplicaron)J
+endp
+%%Page: 42 42
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 42 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(41)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+-.001(quisiese socorrer a aquel pobre que estaba muriendo, y que no mirase a las cosas pasadas ni a sus)A
+70 97 :M
+.837 .084(dichos malos, pues ya dellos ten\222a el pago; mas si en algo podr\222a aprovechar para librarle del)J
+70 115 :M
+.881 .088(peligro y pasi\227n que padec\222a, por amor de Dios lo hiciese, pues ellos ve\222an clara la culpa del)J
+70 133 :M
+-.009(culpado y la verdad y bondad suya, pues a su petici\227n y venganza el Se\226or no alarg\227 el castigo.)A
+98 169 :M
+-.002(El se\226or comisario, como quien despierta de un dulce sue\226o, los mir\227 y mir\227 al delincuente)A
+70 187 :M
+-.008(y a todos los que alderredor estaban, y muy pausadamente les dijo:)A
+98 223 :M
+1.18 .118(\307Buenos hombres, vosotros nunca hab\222ades de rogar por un hombre en quien Dios tan)J
+70 241 :M
+2.223 .222(se\226aladamente se ha se\226alado; mas pues \216l nos manda que no volvamos mal por mal y)J
+70 259 :M
+.237 .024(perdonemos las injurias, con confianza podremos suplicarle que cumpla lo que nos manda, y Su)J
+70 277 :M
+1.56 .156(Majestad perdone a \216ste que le ofendi\227 poniendo en su santa fe obst\207culo. Vamos todos a)J
+70 295 :M
+-.089(suplicalle.\310)A
+98 331 :M
+.757 .076(Y as\222 baj\227 del p\234lpito y encomend\227 a que muy devotamente suplicasen a Nuestro Se\226or)J
+70 349 :M
+.088 .009(tuviese por bien de perdonar a aquel pecador, y volverle en su salud y sano juicio, y lanzar d\216l el)J
+70 367 :M
+1.807 .181(demonio, si Su Majestad hab\222a permitido que por su gran pecado en \216l entrase. Todos se)J
+70 385 :M
+.52 .052(hincaron de rodillas, y delante del altar con los cl\216rigos comenzaban a cantar con voz baja una)J
+70 403 :M
+.213 .021(letan\222a. Y viniendo \216l con la cruz y agua bendita, despu\216s de haber sobre \216l cantado, el se\226or mi)J
+70 421 :M
+.701 .07(amo, puestas las manos al cielo y los ojos que casi nada se le parec\222a sino un poco de blanco,)J
+70 439 :M
+.621 .062(comienza una oraci\227n no menos larga que devota, con la cual hizo llorar a toda la gente como)J
+70 457 :M
+.322 .032(suelen hazer en los sermones de Pasi\227n, de predicador y auditorio devoto, suplicando a Nuestro)J
+70 475 :M
+2.303 .23(Se\226or, pues no quer\222a la muerte del pecador, sino su vida y arrepentimiento, que aquel)J
+70 493 :M
+.259 .026(encaminado por el demonio y persuadido de la muerte y pecado, le quisiese perdonar y dar vida)J
+70 511 :M
+-.015(y salud, para que se arrepintiese y confesase sus pecados.)A
+98 547 :M
+.316 .032(Y esto hecho, mand\227 traer la bula y p\234sosela en la cabeza; y luego el pecador del alguacil)J
+70 565 :M
+1.226 .123(comenz\227 poco a poco a estar mejor y tornar en s\222. Y desque fue bien vuelto en su acuerdo,)J
+70 583 :M
+.284 .028(ech\227se a los pies del se\226or comisario y demand\227le perd\227n, y confes\227 haber dicho aquello por la)J
+70 601 :M
+.064 .006(boca y mandamiento del demonio, lo uno por hacer a \216l da\226o y vengarse del enojo, lo otro y m\207s)J
+70 619 :M
+.195 .02(principal, porque el demonio recib\222a mucha pena del bien que all\222 se hiciera en tomar la bula. El)J
+70 637 :M
+.188 .019(se\226or mi amo le perdon\227, y fueron hechas las amistades entre ellos; y a tomar la bula hubo tanta)J
+70 655 :M
+.918 .092(priesa, que casi \207nima viviente en el lugar no qued\227 sin ella: marido y mujer, e hijos e hijas,)J
+70 673 :M
+-.075(mozos y mozas.)A
+98 709 :M
+2.713 .271(Divulg\227se la nueva de lo acaecido por los lugares comarcanos, y cuando a ellos)J
+70 727 :M
+.276 .028(lleg\207bamos, no era menester serm\227n ni ir a la iglesia, que a la posada la ven\222an a tomar como si)J
+70 745 :M
+2.127 .213(fueran peras que se dieran de balde. De manera que en diez o doce lugares de aquellos)J
+70 763 :M
+-.009(alderredores donde fuimos, ech\227 el se\226or mi amo otras tantas mil bulas sin predicar serm\227n.)A
+endp
+%%Page: 43 43
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 43 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(42)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 97 :M
+.487 .049(Cuando \216l hizo el ensayo, confieso mi pecado que tambi\216n fui dello espantado y cre\222 que)J
+70 115 :M
+1.262 .126(ans\222 era, como otros muchos; mas con ver despu\216s la risa y burla que mi amo y el alguacil)J
+70 133 :M
+.133 .013(llevaban y hac\222an del negocio, conoc\222 como hab\222a sido industriado por el industrioso e inventivo)J
+70 151 :M
+.626 .063(de mi amo. {Acaeci\227nos en otro lugar, el cual no quiero nombrar por su honra, lo siguiente; y)J
+70 169 :M
+.198 .02(fue que mi amo predic\227 dos o tres sermones y do a Dios la bula tomaban. Visto por el asunto de)J
+70 187 :M
+.476 .048(mi amo lo que pasaba y que, aunque dec\222a se fiaban por un a\226o, no aprovechaba y que estaban)J
+70 205 :M
+.218 .022(tan rebeldes en tomarla y que su trabajo era perdido, hizo tocar las campanas para despedirse. Y)J
+70 223 :M
+-.002(hecho su serm\227n y despedido desde el p\234lpito, ya que se quer\222a abajar, llam\227 al escribano y a m\222,)A
+70 241 :M
+.346 .035(que iba cargado con unas alforjas, e h\222zonos llegar al primer escal\227n, y tom\227 al alguacil las que)J
+70 259 :M
+.072 .007(en las manos llevaba y las que no ten\222a en las alforjas, p\234solas junto a sus pies, y torn\227se a poner)J
+70 277 :M
+-.001(en el p\234lpito con cara alegre y arrojar desde all\222 de diez en diez y de veinte en veinte de sus bulas)A
+70 295 :M
+-.034(hacia todas partes, diciendo:)A
+98 331 :M
+.119 .012(\307Hermanos m\222os, tomad, tomad de las gracias que Dios os env\222a hasta vuestras casas, y no)J
+70 349 :M
+-.005(os duela, pues es obra tan p\222a la redenci\227n de los captivos cristianos que est\207n en tierra de moros.)A
+70 367 :M
+.807 .081(Porque no renieguen nuestra santa fe y vayan a las penas del infierno, siquiera ayudadles con)J
+70 385 :M
+.022 .002(vuestra limosna y con cinco paternostres y cinco avemar\222as, para que salgan de cautiverio. Y aun)J
+70 403 :M
+.563 .056(tambi\216n aprovechan para los padres y hermanos y deudos que ten\216is en el Purgatorio, como lo)J
+70 421 :M
+-.036(ver\216is en esta santa bula.\310)A
+98 457 :M
+.874 .087(Como el pueblo las vio ans\222 arrojar, como cosa que se daba de balde y ser venida de la)J
+70 475 :M
+.684 .068(mano de Dios, tomaban a m\207s tomar, aun para los ni\226os de la cuna y para todos sus defuntos,)J
+70 493 :M
+.379 .038(contando desde los hijos hasta el menor criado que ten\222an, cont\207ndolos por los dedos. V\222monos)J
+70 511 :M
+-.001(en tanta priesa, que a m\222 a\222nas me acabaran de romper un pobre y viejo sayo que tra\222a, de manera)A
+70 529 :M
+.265 .027(que certifico a V.M. que en poco m\207s de una hora no qued\227 bula en las alforjas, y fue necesario)J
+70 547 :M
+-.043(ir a la posada por m\207s.)A
+98 583 :M
+.135 .013(Acabados de tomar todos, dijo mi amo desde el p\234lpito a su escribano y al del concejo que)J
+70 601 :M
+.14 .014(se levantasen y, para que se supiese qui\216n eran los que hab\222an de gozar de la santa indulgencia y)J
+70 619 :M
+2.013 .201(perdones de la santa bula y para que \216l diese buena cuenta a quien le hab\222a enviado, se)J
+70 637 :M
+.557 .056(escribiesen. Y as\222 luego todos de muy buena voluntad dec\222an las que hab\222an tomado, contando)J
+70 655 :M
+1.472 .147(por orden los hijos y criados y defuntos. Hecho su inventario, pidi\227 a los alcaldes que por)J
+70 673 :M
+.874 .087(caridad, porque \216l ten\222a que hacer en otra parte, mandasen al escribano le diese autoridad del)J
+70 691 :M
+.603 .06(inventario y memoria de las que all\222 quedaban, que, seg\234n dec\222a el escribano, eran m\207s de dos)J
+70 709 :M
+.569 .057(mil. Hecho esto, \216l se despedi\227 con mucha paz y amor, y ans\222 nos patrimos deste lugar; y aun,)J
+70 727 :M
+.257 .026(antes que nos parti\216semos, fue preguntado \216l por el teniente cura del lugar y por los regidores si)J
+70 745 :M
+1.363 .136(la bula aprovechaba para las criaturas que estaban en el vientre de sus madres, a lo cual \216l)J
+70 763 :M
+.922 .092(respondi\227 que seg\234n las letras que \216l hab\222a estudiado que no, que lo fuesen a preguntar a los)J
+endp
+%%Page: 44 44
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 44 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(43)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+-.007(doctores m\207s antiguos que \216l, y que esto era lo que sent\222a en este negocio.)A
+98 115 :M
+.302 .03(E ans\222 nos partimos, yendo todos muy alegres del buen negocio. Dec\222a mi amo al alguacil)J
+70 133 :M
+-.028(y escribano:)A
+98 169 :M
+.488 .049(\307\300Qu\216 os parece, como a estos villanos, que con solo decir \325Cristianos viejos somos\325, sin)J
+70 187 :M
+1.208 .121(hacer obras de caridad, se piensan salvar sin poner nada de su hacienda? Pues, por vida del)J
+70 205 :M
+-.003(licenciado Pascasio G\227mez, que a su costa se saquen m\207s de diez cautivos.\310)A
+98 241 :M
+.239 .024(Y ans\222 nos fuimos hasta otro lugar de aquel cabo de Toledo, hacia la Mancha, que se dice,)J
+70 259 :M
+.711 .071(adonde topamos otros m\207s obtinados en tomar bulas. Hechas mi amo y los dem\207s que \222bamos)J
+70 277 :M
+.716 .072(nuestras diligencias, en dos fiestas que all\222 estuvimos no se hab\222an echado treinta bulas. Visto)J
+70 295 :M
+.471 .047(por mi amo la gran perdici\227n y la mucha costa que tra\222a, \(y\) el ardideza que el sotil de mi amo)J
+70 313 :M
+-.005(tuvo para hacer despender sus bulas, fue que este d\222a dija la misa mayor, y despu\216s de acabado el)A
+70 331 :M
+.485 .049(serm\227n y vuelto al altar, tom\227 una cruz que tra\222a de poco m\207s de un palmo, y en un brasero de)J
+70 349 :M
+.392 .039(lumbre que encima del altar hab\222a, el cual hab\222an tra\222do para calentarse las manos porque hac\222a)J
+70 367 :M
+.388 .039(gran fr\222o, p\234sole detr\207s del misal sin que nadie mirase en ello, y all\222 sin decir nada puso la cruz)J
+70 385 :M
+1.714 .171(encima la lumbre. Y, ya que hubo acabado la misa y echada la bendici\227n, tom\227la con un)J
+70 403 :M
+.525 .052(pa\226izuelo, bien envuelta la cruz en la mano derecha y en la otra la bula, y ans\222 se baj\227 hasta la)J
+70 421 :M
+-.008(postrera grada del altar, adonde hizo que besaba la cruz, e hizo se\226al que viniesen adorar la cruz.)A
+98 457 :M
+.233 .023(Y ans\222 vinieron los alcaldes los primeros y los m\207s ancianos del lugar, viniendo uno a uno)J
+70 475 :M
+.63 .063(como se usa. Y el primero que lleg\227, que era un alcalde viejo, aunque \216l le dio a besar la cruz)J
+70 493 :M
+.509 .051(bien delicadamente, se abras\227 los rostros y se quit\227 presto afuera. Lo cual visto por mi amo, le)J
+70 511 :M
+(dijo:)S
+98 547 :M
+-.015(\307\301Paso, quedo, se\226or alcalde! \301Milagro!\310)A
+98 583 :M
+-.017(Y ans\222 hicieron otros siete o ocho, y a todos les dec\222a:)A
+98 619 :M
+-.01(\307\301Paso, se\226ores! \301Milagro!\310)A
+98 655 :M
+.312 .031(Cuando \216l vido que los rostriquemados bastaban para testigos del milagro, no la quiso dar)J
+70 673 :M
+.296 .03(m\207s a besar. Subi\227se al pie del altar y de all\222 dec\222a cosas maravillosas, diciendo que por la poca)J
+70 691 :M
+.669 .067(caridad que hab\222a en ellos hab\222a Dios permitido aquel milagro y que aquella cruz hab\222a de ser)J
+70 709 :M
+.237 .024(llevada a la santa iglesia mayor de su Obispado; que por la poca caridad que en el pueblo hab\222a,)J
+70 727 :M
+.275 .027(la cruz ard\222a. Fue tanta la prisa que hubo en el tomar de la bula, que no bastaban dos escribanos)J
+70 745 :M
+1.004 .1(ni los cl\216rigos ni sacristanes a escribir. Creo de cierto que se tomaron m\207s de tres mil bulas,)J
+70 763 :M
+.3 .03(como tengo dicho a V.M. Despu\216s, al partir, \216l fue con gran reverencia, como es raz\227n, a tomar)J
+endp
+%%Page: 45 45
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 45 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(44)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+1.035 .104(la santa cruz, diciendo que la hab\222a de hacer engastonar en oro, como era raz\227n. Fue rogado)J
+70 97 :M
+.034 .003(mucho del concejo y cl\216rigos del lugar les dejase all\222 aquella santa cruz por memoria del milagro)J
+70 115 :M
+.099 .01(all\222 acaecido. \203l en ninguna manera lo quer\222a hacer y al fin, rogado de tantos, se la dej\227; con que)J
+70 133 :M
+.98 .098(le dieron otra cruz vieja que ten\222an antigua de plata, que podr\207 pesar dos o tres libras, seg\234n)J
+70 151 :M
+-.052(dec\222an.)A
+98 187 :M
+.591 .059(Y ans\222 nos partimos alegres con el buen trueque y con haber negociado bien. En todo no)J
+70 205 :M
+.407 .041(vio nadie lo susodicho sino yo, porque me sub\222a par del altar para ver si hab\222a quedado algo en)J
+70 223 :M
+.234 .023(las ampollas, para ponello en cobro, como otras veces yo lo ten\222a de costumbre. Y como all\222 me)J
+70 241 :M
+.032 .003(vio, p\234sose el dedo en la boca haci\216ndome se\226al que callase. Yo ans\222 lo hice porque me cumpl\222a,)J
+70 259 :M
+.855 .085(aunque, despu\216s que vi el milagro, no cab\222a en m\222 por echallo fuera, sino que el temor de mi)J
+70 277 :M
+1.816 .182(astuto amo no me lo dejaba comunicar con nadie, ni nunca de m\222 sali\227, porque me tom\227)J
+70 295 :M
+1.237 .124(juramento que no descubriese el milagro. Y ans\222 lo hice hasta agora}. Y aunque mochacho,)J
+70 313 :M
+-.015(cay\227me mucho en gracia, y dije entre m\222:)A
+98 349 :M
+-.007(\307\301Cu\207ntas destas deben hacer estos burladores entre la inocente gente!\310)A
+98 385 :M
+1.479 .148(Finalmente, estuve con este mi quinto amo cerca de cuatro meses, en los cuales pas\216)J
+70 403 :M
+.473 .047(tambi\216n hartas fatigas{, aunque me daba bien de comer a costa de los curas y otros cl\216rigos do)J
+70 421 :M
+(iba a predicar.})S
+endp
+%%Page: 46 46
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 46 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(45)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.053(Tratado Sexto)A
+70 169 :M
+-.004(C\227mo L\207zaro se asent\227 con un capell\207n, y lo que con \216l pas\227)A
+98 241 :M
+1.69 .169(Despu\216s desto, asent\216 con un maestro de pintar panderos para molelle los colores, y)J
+70 259 :M
+-.027(tambi\216n sufr\222 mil males.)A
+98 295 :M
+.501 .05(Siendo ya en este tiempo buen mozuelo, entrando un d\222a en la iglesia mayor, un capell\207n)J
+70 313 :M
+.136 .014(della me recibi\227 por suyo, y p\234some en poder un asno y cuatro c\207ntaros y un azote, y comenc\216 a)J
+70 331 :M
+-.011(echar agua por la cibdad. \203ste fue el primer escal\227n que yo sub\222 para venir a alcanzar buena vida,)A
+70 349 :M
+.623 .062(porque mi boca era medida. Daba cada d\222a a mi amo treinta maraved\222s ganados, y los s\207bados)J
+70 367 :M
+-.013(ganaba para m\222, y todo lo dem\207s, entre semana, de treinta maraved\222s.)A
+98 403 :M
+.007 .001(Fueme tan bien en el oficio que al cabo de cuatro a\226os que lo us\216, con poner en la ganancia)J
+70 421 :M
+.649 .065(buen recaudo, ahorr\216 para me vestir muy honradamente de la ropa vieja, de la cual compr\216 un)J
+70 439 :M
+.883 .088(jub\227n de fust\207n viejo y un sayo ra\222do de manga tranzada y puerta, y una capa que hab\222a sido)J
+70 457 :M
+-.016(frisada, y una espada de las viejas primeras de Cu\216llar.)A
+98 493 :M
+.041 .004(Desque me vi en h\207bito de hombre de bien, dije a mi amo se tomase su asno, que no quer\222a)J
+70 511 :M
+-.027(m\207s seguir aquel oficio.)A
+endp
+%%Page: 47 47
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 47 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(46)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 151 :M
+-.022(Tratado S\216ptimo)A
+70 169 :M
+-.003(C\227mo L\207zaro se asent\227 con un alguacil, y de lo que le acaeci\227 con \216l)A
+98 241 :M
+.242 .024(Despedido del capell\207n, asent\216 por hombre de justicia con un alguacil, mas muy poco viv\222)J
+70 259 :M
+.728 .073(con \216l, por parecerme oficio peligroso; mayormente, que una noche nos corrieron a m\222 y a mi)J
+70 277 :M
+.394 .039(amo a pedradas y a palos unos retra\222dos, y a mi amo, que esper\227, trataron mal, mas a m\222 no me)J
+70 295 :M
+-.024(alcanzaron. Con esto renegu\216 del trato.)A
+98 331 :M
+.253 .025(Y pensando en qu\216 modo de vivir har\222a mi asiento por tener descanso y ganar algo para la)J
+70 349 :M
+.231 .023(vejez, quiso Dios alumbrarme y ponerme en camino y manera provechosa; y con favor que tuve)J
+70 367 :M
+.92 .092(de amigos y se\226ores, todos mis trabajos y fatigas hasta entonces pasados fueron pagados con)J
+70 385 :M
+.299 .03(alcanzar lo que procur\216, que fue un oficio real, viendo que no hay nadie que medre sino los que)J
+70 403 :M
+-.002(le tienen; en el cual el d\222a de hoy vivo y resido a servicio de Dios y de vuestra merced.)A
+98 439 :M
+-.009(Y es que tengo cargo de pregonar los vinos que en esta ciudad se venden, y en almonedas y)A
+70 457 :M
+1.071 .107(cosas perdidas, acompa\226ar los que padecen persecuciones por justicia y declarar a voces sus)J
+70 475 :M
+.921 .092(delitos: pregonero, hablando en buen romance{, en el cual oficio un d\222a que ahorc\207bamos un)J
+70 493 :M
+1.752 .175(apa\226ador en Toledo y llevaba una buena soga de esparto, conoc\222 y ca\222 en la cuenta de la)J
+70 511 :M
+-.001(sentencia que aquel mi ciego amo hab\222a dicho en Escalona, y me arrepent\222 del mal pago que le di)A
+70 529 :M
+.188 .019(por lo mucho que me ense\226\227, que, despu\216s de Dios, \216l me dio industria para llegar al estado que)J
+70 547 :M
+-.067(ahora est\227.})A
+98 583 :M
+.598 .06(Hame sucedido tan bien, yo le he usado tan f\207cilmente, que casi todas las cosas al oficio)J
+70 601 :M
+.108 .011(tocantes pasan por mi mano: tanto que en toda la ciudad el que ha de echar vino a vender o algo,)J
+70 619 :M
+-.002(si L\207zaro de Tormes no entiende en ello, hacen cuenta de no sacar provecho.)A
+98 655 :M
+.411 .041(En este tiempo, viendo mi habilidad y buen vivir, teniendo noticia de mi persona el se\226or)J
+70 673 :M
+2.215 .222(arcipreste de Sant Salvador, mi se\226or, y servidor y amigo de vuestra merced, porque le)J
+70 691 :M
+.26 .026(pregonaba sus vinos, procur\227 casarme con una criada suya; y visto por m\222 que de tal persona no)J
+70 709 :M
+-.018(pod\222a venir sino bien y favor, acord\216 de lo hacer.)A
+98 745 :M
+.71 .071(Y as\222 me cas\216 con ella, y hasta agora no estoy arrepentido; porque, allende de ser buena)J
+70 763 :M
+.115 .011(hija y diligente, servicial, tengo en mi se\226or acipreste todo favor y ayuda. Y siempre en el a\226o le)J
+endp
+%%Page: 48 48
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 48 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(47)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+70 79 :M
+.028 .003(da en veces al pie de una carga de trigo, por las Pascuas su carne, y cuando el par de los bodigos,)J
+70 97 :M
+.533 .053(las calzas viejas que deja; e h\222zonos alquilar una casilla par de la suya. Los domingos y fiestas)J
+70 115 :M
+.655 .066(casi todas las com\222amos en su casa. Mas malas lenguas, que nunca faltaron ni faltar\207n, no nos)J
+70 133 :M
+-.015(dejan vivir, diciendo no s\216 qu\216, y s\222 s\216 qu\216, de que veen a mi mujer irle a hacer la cama y guisalle)A
+70 151 :M
+.22 .022(de comer. Y mejor les ayude Dios que ellos dicen la verdad;{ aunque en este tiempo siempre he)J
+70 169 :M
+.474 .047(tenido alguna sospechuela y habido algunas malas cenas por esperalla algunas noches hasta las)J
+70 187 :M
+.427 .043(laudes y a\234n m\207s, y se me ha venido a la memoria lo que mi amo el ciego me dijo en Escalona)J
+70 205 :M
+-.001(estando asido del cuerno; aunque de verdad siempre pienso que el diablo me lo trae a la memoria)A
+70 223 :M
+.658 .066(por hacerme malcasado, y no le aprovecha} porque, allende de no ser ella mujer que se pague)J
+70 241 :M
+.687 .069(destas burlas, mi se\226or me ha prometido lo que pienso cumplir\207. Que \216l me habl\227 un d\222a muy)J
+70 259 :M
+-.009(largo delante della, y me dijo:)A
+98 295 :M
+.895 .089(\307L\207zaro de Tormes, quien ha de mirar a dichos de malas lenguas, nunca medrar\207. Digo)J
+70 313 :M
+.831 .083(esto porque no me maravillar\222a alguno, viendo entrar en mi casa a tu mujer y salir della. Ella)J
+70 331 :M
+.081 .008(entra muy a tu honra y suya, y esto te lo prometo. Por tanto, no mires a lo que pueden decir, sino)J
+70 349 :M
+-.007(a lo que te toca, digo a tu provecho.\310)A
+98 385 :M
+.646 .065(\307Se\226or -le dije-, yo determin\216 de arrimarme a los buenos. Verdad es que algunos de mis)J
+70 403 :M
+.386 .039(amigos me han dicho algo deso, y aun, por m\207s de tres veces me han certificado que, antes que)J
+70 421 :M
+1.539 .154(comigo casase, hab\222a parido tres veces, hablando con reverencia de V.M., porque est\207 ella)J
+70 439 :M
+-.081(delante.\310)A
+98 475 :M
+1.971 .197(Entonces mi mujer ech\227 juramentos sobre s\222, que yo pens\216 la casa se hundiera con)J
+70 493 :M
+-.012(nosotros, y despu\216s tom\227se a llorar y a echar maldiciones sobre quien comigo la hab\222a casado, en)A
+70 511 :M
+.575 .058(tal manera que quisiera ser muerto antes que se me hobiera soltado aquella palabra de la boca.)J
+70 529 :M
+1.067 .107(Mas yo de un cabo y mi se\226or de otro, tanto le dijimos y otorgamos que ces\227 su llanto, con)J
+70 547 :M
+.762 .076(juramento que le hice de nunca m\207s en mi vida mentalle nada de aquello, y que yo holgaba y)J
+70 565 :M
+.843 .084(hab\222a por bien de que ella entrase y saliese, de noche y de d\222a, pues estaba bien seguro de su)J
+70 583 :M
+.769 .077(bondad. Y as\222 quedamos todos tres bien conformes. Hasta el d\222a de hoy, nunca nadie nos oy\227)J
+70 601 :M
+-.006(sobre el caso; antes, cuando alguno siento que quiere decir algo della, le atajo y le digo:)A
+98 637 :M
+.686 .069(\307Mir\207: si sois amigo, no me dig\207is cosa con que me pese, que no tengo por mi amigo al)J
+70 655 :M
+-.009(que me hace pesar; mayormente si me quieren meter mal con mi mujer, que es la cosa del mundo)A
+70 673 :M
+.598 .06(que yo m\207s quiero, y la amo m\207s que a m\222. Y me hace Dios con ella mil mercedes y m\207s bien)J
+70 691 :M
+.975 .098(que yo merezco; que yo jurar\216 sobre la hostia consagrada que es tan buena mujer como vive)J
+70 709 :M
+-.01(dentro de las puertas de Toledo. Quien otra cosa me dijere, yo me matar\216 con \216l.\310)A
+98 745 :M
+-.016(Desta manera no me dicen nada, y yo tengo paz en mi casa.)A
+endp
+%%Page: 49 49
+%%BeginPageSetup
+initializepage
+(Usuario de Performa; page: 49 of 49)setjob
+%%EndPageSetup
+-28 -31 :T
+gS 28 31 538 781 rC
+70 803 :M
+f0_12 sf
+-.014(La vida de Lazarillo de Tormes y de sus fortunas y adversidades)A
+524 803 :M
+(48)S
+-4096 -4095 -1 1 -4094 -4095 1 -4096 -4096 @a
+68 792.24 -.24 .24 540.24 792 .24 68 792 @a
+98 79 :M
+.125 .012(Esto fue el mesmo a\226o que nuestro victorioso Emperador en esta insigne ciudad de Toledo)J
+70 97 :M
+.889 .089(entr\227 y tuvo en ella cortes, y se hicieron grandes regocijos, como vuestra merced habr\207 o\222do.)J
+70 115 :M
+.42 .042(Pues en este tiempo estaba en mi prosperidad y en la cumbre de toda buena fortuna{, de lo que)J
+70 133 :M
+-.017(de aqu\222 adelante me sucediere avisar\216 a vuestra merced.})A
+70 229 :M
+-.016( End of The Project Gutenberg Etext of Vida de Lazarillo)A
+endp
+%%Trailer
+end		% md
+%%EOF
